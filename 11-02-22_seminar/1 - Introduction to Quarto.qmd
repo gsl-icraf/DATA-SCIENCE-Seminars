@@ -1,0 +1,123 @@
+---
+title: "Introduction to Quarto (seminar 1)"
+author: "SPACIAL Unit"
+format: html
+editor: visual
+---
+
+### Today's program:
+
+1.  Load libraries
+
+2.  Set working directory
+
+3.  Import data
+
+4.  Explore data
+
+    a)  Explore data types in the data set
+    b)  Which variables can be found in the data set?
+
+5.  Questions on the data
+
+    a)  How many unique plots in the data?
+    b)  Which counties are in the data?
+    c)  How many plots per county?
+    d)  Find if there's NAs in county_region column?
+        i)  Change the NA values
+    e)  What data type is the "plant_date" column?
+        i)  Which unique planting years are in the data?
+        ii) How many planted in each year per county?
+
+6.  Data exploration through visualization
+
+    a)  Visualize the number of plots per county?
+        i)  Change the color and width of the the bars
+        ii) Look up some information on the type of plot you used
+    b)  Show the distribution in size of the plots in different counties
+    c)  Plot the number trees planted vs the number survived
+        i)  Add an extra variable as aesthetic
+
+7.  Data manipulation (for next seminar)
+
+## 1. Libraries
+
+```{r}
+# Load libraries
+
+```
+
+## 2. Set working directory
+
+## 3. Import data
+
+```{r}
+# Import data
+
+```
+
+## 4. Explore data
+
+```{r}
+# Explore data types in the data set
+
+# Which variables can be found in the data set
+```
+
+## 5. Answer the questions
+
+```{r}
+# How many unique plots in the data?
+
+```
+
+```{r}
+# Which counties are in the data?
+
+```
+
+```{r}
+# How many plots per county?
+
+```
+
+```{r}
+# Find NAs in the county_region column and change the value
+
+```
+
+```{r}
+# What data type is the "plant_date" column?
+# Which unique planting years are in the data?
+# How many planted in each year per county
+
+```
+
+## 6. Data exploration by visualization
+
+```{r}
+# Visualize the number of plots per county
+  # Change the color and width of the the bars
+  # Look up some information on the type of plot you used (eg what does 'identity' mean?)
+
+```
+
+```{r}
+# Show the distribution in size of the plots in different counties
+  # Does the y limit make sense?
+
+```
+
+```{r}
+# Plot the number trees planted vs the number survived
+  #Add an extra variable as aesthetic 
+
+```
+
+## 7. Data manipulation (next seminar)
+
+```{r}
+# Create new column showing the survival in % and plot
+
+
+```
