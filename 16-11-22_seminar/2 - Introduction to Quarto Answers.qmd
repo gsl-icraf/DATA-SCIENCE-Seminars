@@ -1,0 +1,176 @@
+---
+title: "Introduction to Quarto (seminar 1)"
+author: "SPACIAL Unit"
+format: html
+editor: visual
+---
+
+### Today's program:
+
+1.  Load libraries
+
+2.  Set working directory
+
+3.  Import data
+
+4.  Explore data
+
+    a)  Explore data types in the data set
+    b)  Which variables can be found in the data set?
+
+5.  Questions on the data
+
+    a)  How many unique plots in the data?
+    b)  Which counties are in the data?
+    c)  How many plots per county?
+    d)  Find if there's NAs in county_region column?
+        i)  Change the NA values
+    e)  What data type is the "plant_date" column?
+        i)  Which unique planting years are in the data?
+        ii) How many planted in each year per county?
+
+6.  Data exploration through visualization
+
+    a)  Visualize the number of plots per county?
+        i)  Change the color and width of the the bars
+        ii) Look up some information on the type of plot you used
+    b)  Show the distribution in size of the plots in different counties
+    c)  Plot the number trees planted vs the number survived
+        i)  Add an extra variable as aesthetic
+
+7.  Data manipulation (for next seminar)
+
+## 1. Libraries
+
+```{r}
+# Load libraries
+library(tidyverse)
+library(data.table)
+
+# If not installed yet:
+install.packages('tidyverse')
+install.packages('data.table')
+```
+
+## 2. Set working directory
+
+## 3. Import data
+
+```{r}
+# Import data
+ra <- read_csv('Rwanda_subset.csv')
+
+```
+
+## 4. Explore data
+
+```{r}
+# Explore data types in the data set
+summary(ra)
+View(ra)
+names(ra)
+# Which variables can be found in the data set
+```
+
+## 5. Answer the questions
+
+```{r}
+# How many unique plots in the data?
+length(unique(ra$plotID))
+```
+
+```{r}
+# Which counties are in the data?
+unique(ra$county)
+```
+
+```{r}
+# How many plots per county?
+ra %>% 
+  group_by(county) %>% 
+  summarise(number_plots=n())
+  
+```
+
+```{r}
+# Find NAs in the county_region column and change the value
+length(which(is.na(ra$county_region)==T))
+
+
+```
+
+```{r}
+# What data type is the "plant_date" column?
+class(ra$plant_date)
+
+# Which unique planting years are in the data?
+unique(year(ra$plant_date))
+# How many planted in each year per county
+ra %>% 
+  group_by(county, year(plant_date)) %>% 
+  summarise(number_planted=n())
+
+```
+
+## 6. Data exploration by visualization
+
+```{r}
+# Visualize the number of plots per county
+ra %>% 
+  group_by(county) %>% 
+  summarise(number_planted=n()) %>% 
+  ggplot()+
+  geom_col(aes(x=county, y=number_planted), fill='darkblue')+
+  labs(y='Number planted', x='County')
+?geom_col
+  # Change the color and width of the the bars
+  # Look up some information on the type of plot you used (eg what does 'identity' mean?)
+
+```
+
+```{r}
+# Show the distribution in size of the plots in different counties
+ggplot(ra)+
+  geom_histogram(aes(x=Hectare))+
+  facet_wrap(~county)
+
+ggplot(ra)+
+  geom_boxplot(aes(x=county, y=Hectare))+
+  ylim(0,1)
+
+ggplot(ra)+
+  geom_violin(aes(x=county, y=Hectare), fill='grey',
+              col='dark green')+
+  ylim(0,1)
+
+# Does the y limit make sense?
+
+```
+
+```{r}
+# Plot the number trees planted vs the number survived
+ggplot(ra)+
+  geom_point(aes(x=number_planted, y=number_survived, col=Hectare))+
+  geom_smooth(aes(x=number_planted,y=number_survived),
+              method='loess')+
+  ylim(0,200)+
+  xlim(0,200)
+
+ggplot(ra)+
+  geom_point(aes(x=number_planted, y=number_survived, col=Hectare))+
+  geom_smooth(aes(x=number_planted,y=number_survived),
+              method='lm')+
+  ylim(0,200)+
+  xlim(0,200)
+
+  #Add an extra variable as aesthetic 
+
+```
+
+## 7. Data manipulation
+
+```{r}
+# Create new column showing the survival in % and plot
+
+
+```
