@@ -1,0 +1,504 @@
+plotID,county_region,county,own_land,community_land,government_land,mosque_church_land,school_land,other_land,crops,croplist,species_name,plant_date,number_planted,number_survived,woodlot,internal_boundary,external_boundary,garden,crop_field,pasture_grassland,fallow_bushland,mgt_prunning,mgt_fencing,mgt_weeding,mgt_watering,mgt_organic_fertilizer,Hectare
+37977,Eastern,Kayonza,yes,no,no,no,no,"",Yes,pomme de terre,greveria robusta,2018-11-01,40,20,no,no,no,no,yes,no,no,no,no,yes,no,no,0.028067547713265
+6091,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,"banana tree ,beans",Grevillea robusta,2018-09-01,50,40,no,yes,no,no,yes,no,no,yes,no,no,no,no,0.170238438623056
+4175,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"beans, maize",Mangifera indica,2018-10-01,15,10,no,no,no,no,yes,no,no,no,no,yes,no,yes,0.0497884566225866
+21682,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"ibishyimbo ,ibigori",Grevillea robusta,2018-11-01,25,0,no,yes,yes,no,yes,no,no,yes,no,no,no,no,0.204773708252534
+36338,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,"greveriya,caricapapayes,enspectabilus,personal Amercane",carica papaye,2018-01-01,3,1,no,no,no,yes,no,no,no,no,no,no,no,yes,0.0377374626450494
+24428,Eastern,Kayonza,yes,no,no,no,no,"",Yes,"banana crops, Maize, Cassava",Grevillea robusta,2018-08-01,15,11,no,yes,yes,no,no,no,no,no,no,yes,no,yes,0.148158920774064
+6120,Eastern,Bugesera,yes,no,no,no,no,"",No,"",Eucalyptus spp,2018-09-01,110,96,yes,no,no,no,no,no,no,yes,no,no,no,no,0.0527739375000075
+36021,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"Intsina, Imyumbati",Ipapayi,2018-11-01,3,2,no,no,no,no,yes,no,no,no,no,yes,no,yes,0.00990918216215635
+35262,"",Kayonza,"","","","","","","","",Grevillea robusta,2018-12-01,20,15,no,no,no,no,yes,no,no,yes,no,yes,no,yes,0.109555597243899
+6036,Eastern,Kayonza,yes,no,no,no,no,"",No,"",Grevellea rubusta,2018-09-01,500,430,yes,no,no,no,no,no,no,yes,yes,no,no,yes,0.261616096731557
+23431,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"imyumbati,amateke, ibigori",gereveliya,2018-10-01,20,6,no,yes,yes,no,no,no,no,no,no,no,no,yes,0.0803559486968705
+21635,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"ibigori, imyumbti, urutoki, amateke",gereveliya,2018-09-01,25,17,no,no,no,no,yes,no,no,no,no,yes,no,yes,0.110130028917354
+32156,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,"Sorghum, Cassava",Grevillea robusta,2018-09-01,7,6,no,no,yes,no,yes,no,no,no,no,yes,no,no,0.0185263122408103
+113,Eastern,Bugesera,yes,no,no,no,no,"",Yes,Banana,Sena spectabilis,2018-10-01,5,3,no,no,no,yes,no,no,no,yes,no,no,no,no,0.0333819315679821
+19791,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,"banana crops, cassava, maize",Grevillea robusta,2018-12-01,50,22,no,no,yes,no,no,no,no,no,no,yes,no,no,0.715042537709017
+3604,Eastern,Kayonza,yes,no,no,no,no,"",Yes,banana trees,Grevilea robusta,2018-09-01,11,6,no,no,yes,no,yes,no,no,yes,no,yes,no,no,0.0116457404250478
+536,Eastern,Kayonza,yes,no,no,no,no,"",Yes,"maize, beans",carica papaya,2018-10-01,10,1,no,no,no,yes,no,no,no,no,no,yes,no,no,0.0431233335551799
+30847,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,Banana,Carica papaya/ipapayi,2018-11-01,2,1,no,no,no,no,yes,no,no,no,no,yes,no,yes,0.102145255374739
+389,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,"Bananas, yams",Grevillea robusta,2018-11-01,30,25,no,no,yes,no,no,no,no,yes,no,yes,no,no,0.403556725932928
+2829,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"urutoki,ibigori,amateke,imyumbati",ipapayi,2018-10-01,2,2,no,no,no,no,yes,no,no,no,no,no,no,yes,0.0423388793064621
+23145,Eastern,Gatsibo,yes,no,no,no,no,"",No,"",Mangifera indica,2018-11-01,1,1,no,no,no,yes,no,no,no,no,no,yes,no,no,0.00174318242559992
+18156,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"ibirayi, ibigori, amateke, imyumbati",Grevillea rubusta,2018-11-01,3,1,no,no,no,no,yes,no,no,yes,no,yes,no,no,0.0303144798917667
+5190,Eastern,Kayonza,yes,no,no,no,no,"",Yes,banana,Avocado,2018-10-01,4,3,no,no,no,yes,no,no,no,yes,no,yes,no,yes,0.0222215608956378
+35935,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,beans,Glevirrea robusta,2018-11-01,5,1,no,yes,no,yes,no,no,no,yes,no,yes,no,no,0.0253959331783274
+25653,Eastern,Kayonza,yes,no,no,no,no,"",Yes,amasaka,coroton,2018-12-01,10,6,no,no,yes,no,no,no,no,yes,no,yes,no,no,0.0157738077870391
+11435,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,"banana,maize",grevillea robusta,2018-12-01,70,60,no,yes,yes,no,yes,no,no,yes,no,yes,no,no,0.539112290390432
+562,Eastern,Bugesera,yes,no,no,no,no,"",Yes,ibishyimbo,gereveria,2018-09-01,15,7,no,no,yes,no,no,no,no,yes,no,yes,yes,no,0.107900443755855
+26046,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,"",Grevillea Robusta,2018-11-01,70,60,yes,no,no,no,yes,no,no,yes,no,yes,no,no,0.211521331343721
+30108,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,groundnuts,eucalyptus microcorys,2018-11-01,40,34,yes,no,no,no,no,no,no,no,no,no,no,yes,0.0646751886433189
+31113,Eastern,Kayonza,yes,no,no,no,no,"",Yes,cassava,Grevillea robusta,2018-10-01,20,9,no,no,yes,no,yes,no,no,yes,no,yes,no,no,0.0659686903155502
+12838,Eastern,Nyagatare,yes,no,no,no,no,"",No,"",Carica papaya,2018-10-01,5,1,no,yes,yes,no,yes,no,no,no,no,yes,yes,no,0.0534756795109951
+8296,Eastern,Kayonza,yes,no,no,no,no,"",Yes,banana,grevillea robusta,2018-09-01,70,65,no,yes,no,yes,no,no,no,yes,no,yes,no,no,0.156118391415548
+3656,Eastern,Kayonza,yes,no,no,no,no,"",Yes,banana,sena spectabulis,2018-10-01,10,6,no,no,yes,no,no,no,no,yes,no,yes,no,yes,0.0359787218085114
+16271,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"groundnuts, maize",grevillea robusta,2018-09-01,10,5,no,no,yes,no,yes,no,no,yes,no,no,no,no,0.0495490092697911
+8363,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,Banana & Beans,Grevillea Robusta,2018-10-01,30,23,no,yes,no,no,no,no,no,yes,no,no,no,no,0.0839506656579877
+26837,"",Nyagatare,"","","","","","","","",Grenville Robusta,2018-11-01,15,13,no,no,yes,no,no,no,no,no,no,yes,no,no,0.045840039906919
+15855,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"Maize , Cassava, Beans",Spathodea companulata,2018-09-01,5,3,no,no,yes,no,no,no,no,yes,no,yes,no,no,0.0577865133249333
+19968,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,"banana, Maize",Grevillea robusta,2018-10-01,15,8,no,yes,no,no,no,no,no,yes,no,yes,no,yes,0.0376307909289001
+12140,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,"maize,beans",Grevillea robusta,2018-11-01,8,8,no,yes,yes,no,yes,no,no,yes,no,no,no,no,0.135100167750795
+28400,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,Maize,Grevillea Robusta,2018-10-01,50,32,no,yes,yes,no,no,no,no,yes,no,yes,yes,yes,0.113875626826636
+22147,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"maize,bananas, sorghum, beans,cassava",grevellea,2018-09-01,120,72,no,yes,yes,no,yes,no,no,yes,yes,no,no,yes,0.154704206607778
+23803,Eastern,Kayonza,yes,no,no,no,no,"",No,"",Gereveriya,2018-12-01,20,20,no,no,yes,no,no,no,no,no,no,yes,no,yes,0.12836295791684
+18929,Eastern,Gatsibo,yes,no,no,no,no,"",No,"",Grevilea robusta,2018-11-01,50,10,yes,no,no,no,no,no,no,no,no,yes,no,no,0.0319601998802211
+7307,Eastern,Kayonza,yes,no,no,no,no,"",Yes,banana,Acacia species,2018-03-01,50,30,no,no,yes,no,no,no,no,no,no,yes,no,yes,0.054596107748236
+9659,Eastern,Bugesera,yes,no,no,no,no,"",No,"",eucalptus,2018-09-01,200,110,yes,no,no,no,no,no,no,no,no,no,yes,no,0.0481197760284867
+26239,Eastern,Kayonza,yes,no,no,no,no,"",Yes,"ibishyimbo, ibigori",grevillea,2018-11-01,5,3,no,yes,no,no,yes,no,no,no,no,yes,no,yes,0.0556917282995648
+25280,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"ibishyimbo, ibigori,",Grevillea rubusta,2018-09-01,10,6,no,yes,no,no,yes,no,no,yes,no,yes,no,no,0.0648401792635305
+2923,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"ibishyimbo, ibigori, imyumbati, intsina",eucalyptus,2018-11-01,2000,1400,yes,no,no,no,yes,no,no,yes,no,no,no,no,0.324076335667934
+31194,Eastern,Kayonza,yes,no,no,no,no,"",Yes,maiz,grevellea robusta,2018-12-01,30,10,no,no,yes,no,no,no,no,no,no,yes,no,yes,0.289710699981223
+8119,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,"Groundnuts, Cassava, Maize, sunflower",Grevellea Robusta,2018-11-01,20,16,no,yes,yes,yes,yes,no,no,yes,no,yes,no,yes,0.0414007458820963
+3765,Eastern,Bugesera,yes,no,no,no,no,"",Yes,Imyumbati+Ibihwagari+Amateke+Insina,Amapapayi,2018-11-01,5,3,no,no,no,no,yes,no,no,no,no,yes,no,yes,0.0168312868668156
+13829,Eastern,Kayonza,yes,no,no,no,no,"",Yes,banana,grevellea robusta,2018-10-01,20,9,no,no,yes,no,no,no,no,no,no,yes,yes,yes,0.0290767691882777
+37262,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"Soya beans, cassava",Senna spectabilis,2018-11-01,30,20,no,no,yes,no,no,no,no,yes,no,yes,no,no,0.32724379132826
+14948,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"Intsina,imboga",Ibinyomoro,2018-11-01,2,2,no,no,no,yes,no,no,no,no,no,no,no,yes,0.000890418364488939
+11825,Eastern,Kayonza,yes,no,no,no,no,"",Yes,banana,Grevellea rubusta,2018-11-01,50,50,no,no,yes,no,yes,no,no,yes,no,yes,no,yes,0.472175178328935
+13903,Eastern,Kayonza,yes,no,no,no,no,"",Yes,"Potatoes, beans ,",Persea americana,2018-12-01,10,6,no,no,no,no,yes,no,no,no,no,yes,no,yes,0.49534836353009
+22806,Eastern,Nyagatare,yes,no,no,no,no,"",No,"",grevillea,2018-11-01,38,24,no,no,no,no,no,no,yes,no,no,no,no,no,1.45398504124765
+29878,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"intsina, imyumbati, ibigori,soya",spatodea,2018-11-01,5,1,no,no,no,no,yes,no,no,no,no,yes,no,no,0.315874687502844
+3739,Eastern,Kayonza,yes,no,no,no,no,"",Yes,beans,glevirrea robusta,2018-11-01,18,15,no,no,yes,yes,yes,no,no,yes,no,yes,no,yes,0.0302901174680629
+17907,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,groundnuts,Grevillea robusta,2018-11-01,6,5,no,no,yes,no,no,no,no,yes,no,yes,no,no,0.0274351412489207
+1849,Eastern,Bugesera,yes,no,no,no,no,"",Yes,ibigori nibibiringanya,gereveria,2018-11-01,10,1,no,no,yes,no,no,no,no,yes,no,yes,no,no,0.0430274913563817
+27728,Eastern,Kayonza,yes,no,no,no,no,"",Yes,"beans, maize",Grevillea robusta,2018-10-01,46,41,no,no,no,no,no,no,no,yes,no,yes,no,no,0.358664080945839
+29362,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"ibihwagari,ibigori,amateke",gereveliya,2018-12-01,12,11,no,no,yes,no,yes,no,no,no,no,no,no,yes,0.102015636394845
+10230,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,maize,Mangifera indica,2018-11-01,120,94,no,yes,no,no,yes,no,no,no,no,yes,yes,no,0.413259863163549
+21887,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,"Bananas, Cassava",Eucalyptus microcorus,2018-10-01,150,90,yes,no,no,no,no,no,no,no,no,yes,no,no,0.0399026713139067
+11720,Eastern,Kayonza,yes,no,no,no,no,"",Yes,Banana,Avocat,2018-11-01,1,1,no,no,no,yes,no,no,no,no,no,yes,yes,yes,0.193625732970869
+37403,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,Banana,Grevillea Robusta,2018-11-01,8,7,no,no,yes,yes,no,no,no,yes,no,yes,no,yes,0.0151790687053633
+8294,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,Yarms.,Grevellea Robasta,2018-11-01,40,22,no,no,yes,no,no,no,no,yes,no,yes,no,yes,0.215708211291039
+37036,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,banana crops,Grevillea robusta,2018-09-01,40,28,no,yes,yes,no,yes,no,no,no,no,yes,no,yes,0.373894649249069
+7729,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,Soya Beans,Grevillea Robusta,2018-10-01,5,3,no,no,yes,no,no,no,no,no,no,yes,no,yes,0.03133136163264
+19857,Eastern,Bugesera,yes,no,no,no,no,"",Yes,Beans,spathodea companulata,2018-08-01,15,8,no,yes,yes,no,no,no,no,no,no,no,no,yes,0.0996175965081537
+25677,Eastern,Kayonza,yes,no,no,no,no,"",Yes,banana,senna spectabilis,2018-09-01,10,6,no,yes,no,yes,no,no,no,no,no,no,no,no,0.0303627644115741
+6538,Eastern,Kayonza,yes,no,no,no,no,"",Yes,"maize, irishpototoes
+",grilicidia sepium,2018-10-01,5,3,no,yes,no,yes,yes,no,no,no,no,yes,no,no,0.00427094529165867
+26414,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"Bean,Maize",Grevellea robusta,2018-01-01,5,5,no,no,yes,no,no,no,no,no,no,yes,no,no,0.0449373223138716
+25794,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"Cassava, yams, banana crops",Jack fruit,2018-11-01,1,1,no,no,no,yes,no,no,no,no,yes,yes,yes,yes,0.0710115990113694
+15327,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,banana,Grevillea robusta,2018-10-01,25,21,no,yes,no,no,yes,no,no,yes,no,yes,no,yes,0.249374529441373
+822,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"ibishyimbo,amateke , ibigori",Calica papaya,2018-11-01,12,1,no,no,no,no,yes,no,no,yes,yes,yes,no,no,0.0518386173249873
+25754,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,"beans,vegetables",Cyphomandra betacea,2018-11-01,2,2,no,no,yes,yes,yes,no,no,no,yes,yes,yes,no,0.106780185130794
+2347,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,"maize,cassava",Grevillea robusta,2018-11-01,20,18,no,no,yes,no,yes,no,no,yes,no,yes,no,yes,2.39261484916758
+16568,Eastern,Kayonza,yes,no,no,no,no,"",No,"",accasia,2017-11-01,5,3,no,no,no,yes,no,no,no,no,no,yes,no,no,0.0340070137270093
+5171,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"urutoki,imyumbati,amateke,ibijumba",ibinyomoro,2018-11-01,4,2,no,no,no,yes,no,no,no,no,no,yes,yes,yes,0.0175679400019477
+34409,Eastern,Bugesera,yes,no,no,no,no,"",Yes,Beans and maize,Carica papaya,2018-10-01,13,4,no,yes,no,no,no,no,no,yes,no,yes,no,yes,0.437500626153067
+28181,Eastern,Bugesera,yes,no,no,no,no,"",Yes,Sorghum,Grevellea rubusta,2018-10-01,5,2,no,no,yes,yes,no,no,no,no,no,yes,no,yes,0.0103208714638558
+21589,Eastern,Kayonza,yes,no,no,no,no,"",Yes,"banana,beans, maize",Mangifera indica,2018-10-01,1,1,no,no,no,no,yes,no,no,no,no,yes,no,yes,0.074814909238718
+1473,Eastern,Bugesera,yes,no,no,no,no,"",Yes,Maize and cassava,Croton megalocopus,2018-12-01,2,2,no,yes,no,yes,yes,no,no,no,yes,yes,yes,yes,0.0923634369320149
+21542,Eastern,Nyagatare,yes,no,no,no,no,"",No,"",Grevillea Robusta,2018-11-01,8,8,no,no,yes,no,no,no,no,yes,no,yes,no,no,0.0375234468387341
+2661,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,banana,grevillea robusta,2018-11-01,8,6,no,no,yes,no,no,no,no,yes,no,no,no,no,0.0249925456617386
+19577,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,"beans, bananas, cassava",Grevillea Robusta,2018-11-01,35,34,no,yes,no,no,no,no,no,yes,no,yes,no,no,0.555904827608018
+27960,Eastern,Bugesera,yes,no,no,no,no,"",No,"",Eucalyptus spp,2018-09-01,1200,1156,yes,no,no,no,no,no,no,no,no,no,no,no,0.158909823872555
+5853,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,"bananas, maize beans,yam",carica papaya,2018-11-01,6,4,no,yes,no,no,yes,no,no,no,no,yes,no,no,0.0275117431146211
+36068,Eastern,Kayonza,yes,no,no,no,no,"",Yes,banana,solanum betaceum,2018-11-01,30,17,no,yes,no,yes,yes,no,no,no,no,no,no,yes,0.0735723184674325
+3786,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,"banana ,caffee",solanum betaseum,2018-10-01,5,3,no,no,no,no,yes,no,no,no,no,yes,no,yes,0.0112616935179408
+14962,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,maize,Grevillea robusta,2018-10-01,30,30,no,yes,no,no,no,no,no,yes,no,no,no,no,0.23056957504745
+17939,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,Maize,Grevillea Robusta,2018-10-01,27,23,no,yes,no,no,no,no,no,yes,no,no,no,no,0.0223385066828597
+33509,Eastern,Kayonza,yes,no,no,no,no,"",No,"",sena spectabulis,2018-11-01,70,45,yes,no,no,no,no,no,no,no,no,yes,no,no,0.293161131188752
+32202,Eastern,Bugesera,no,no,no,yes,no,"",Yes,Sorghum and Beans,Grevillea robusta,2018-11-01,3000,1600,no,yes,yes,no,yes,no,no,yes,no,yes,no,yes,1.10739790294613
+17049,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,Maize,Calliandra Callothyrsus,2018-11-01,110,100,no,no,yes,no,yes,no,no,yes,no,yes,no,yes,0.187221529959261
+26663,Eastern,Kayonza,yes,no,no,no,no,"",Yes,"ibishyimbo, ibigori, imyumbati",grevillea,2018-11-01,15,5,no,no,no,no,yes,no,no,no,no,yes,no,yes,0.208309803328438
+25411,Eastern,Bugesera,yes,no,no,no,no,"",Yes,Sorghom,Grevellia robusta,2018-11-01,12,5,no,yes,no,no,no,no,no,yes,no,no,no,no,0.0523833815470512
+3542,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,sorghum,Grevellia Robusta,2018-11-01,15,10,no,no,yes,no,yes,no,no,yes,no,yes,no,no,0.0308585594122406
+14315,Eastern,Kayonza,yes,no,no,no,no,"",Yes,"sorghum,banana",grevellea,2018-09-01,15,9,no,no,no,yes,yes,no,no,no,no,no,no,yes,0.0852046852056108
+29766,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,Cassava,Grevillea robusta,2018-11-01,10,8,no,no,yes,no,no,no,no,yes,no,yes,no,no,0.106850884629797
+22602,Eastern,Kayonza,yes,no,no,no,no,"",Yes,"beans, maize",Senna spectabilis,2018-10-01,20,5,no,no,yes,yes,no,no,no,yes,no,yes,no,yes,0.041516530082519
+10935,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,Banana,Persea americana,2018-10-01,3,1,no,no,no,no,yes,no,no,yes,no,yes,no,yes,0.0161666345209555
+27647,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,Maizes,Grevillea Robusta,2018-11-01,20,10,no,yes,yes,no,no,no,no,no,no,yes,no,yes,0.096079121482129
+8949,Eastern,Kayonza,yes,no,no,no,no,"",No,"",persia americana,2018-09-01,3,1,no,no,no,yes,no,no,no,no,no,no,yes,no,0.0170430064967417
+29480,Eastern,Kayonza,yes,no,no,no,no,"",Yes,"banana, cassava, sorghum",spatodea campanulata,2018-10-01,3,2,no,yes,no,no,yes,no,no,yes,no,yes,no,no,0.213655104145251
+34393,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,maize,Eucalyptus camalandensis,2018-11-01,70,65,no,no,yes,yes,yes,no,no,yes,yes,yes,yes,no,0.0772125818064324
+31715,Eastern,Kayonza,yes,no,no,no,no,"",Yes,cassava,Grevullea robusta,2018-03-01,10,7,no,yes,yes,no,no,no,no,yes,no,no,no,yes,0.0945460119126668
+37591,Eastern,Kayonza,yes,no,no,no,no,"",Yes,"ibigori, insina, ibyishyimbo",Sena,2018-11-01,7,2,no,yes,yes,no,no,no,no,yes,no,yes,no,no,0.229672383201936
+17221,Eastern,Bugesera,yes,no,no,no,no,"",Yes,Maize and cassava,Greveria,2018-10-01,40,14,no,no,yes,no,yes,no,no,yes,no,yes,no,yes,0.221400152508351
+23036,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"imyumbati, ibijumba, insina",Calliandra,2018-11-01,30,24,no,no,yes,no,no,no,yes,yes,no,no,no,no,0.00130997628311916
+24572,Eastern,Kayonza,yes,no,no,no,no,"",Yes,Cassava,Cariandra,2018-10-01,10,8,no,no,yes,no,no,no,no,no,no,no,no,no,0.0906318197130021
+23934,Eastern,Gatsibo,yes,no,no,no,no,"",No,"",solleum   betaseum,2018-11-01,6,1,no,no,no,no,yes,no,no,no,no,yes,yes,yes,0.0456537280098988
+29293,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,Zea mays,Grevillea robusta,2018-09-01,38,38,no,no,no,no,yes,no,no,yes,no,no,no,yes,0.192948061625177
+17002,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,banana,Grevellia Robusta,2018-11-01,20,18,no,no,yes,no,yes,no,no,yes,no,yes,no,yes,0.0434659463768149
+28082,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"Ibigori,ibyishimo,imyumbati",Cyprus,2017-11-01,5,3,no,yes,no,no,no,no,no,yes,no,yes,yes,no,0.420620456064732
+37045,Eastern,Kayonza,yes,no,no,no,no,"",Yes,banana,markhamia lutea,2018-10-01,10,8,no,yes,no,yes,yes,no,no,yes,no,yes,no,no,0.0515168391791008
+24512,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"Intsina, Imyumbati, Amateke",Gereveliya,2018-11-01,5,3,no,no,yes,no,no,no,no,no,no,yes,no,no,0.0338559673602721
+3162,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,beans,Grevillea Robusta,2018-10-01,35,28,no,yes,yes,no,no,no,no,yes,no,no,no,no,0.158258270453688
+1552,Eastern,Kayonza,yes,no,no,no,no,"",No,"",Senna spectabulis,2018-11-01,10,7,no,no,no,yes,no,no,no,yes,no,no,no,no,0.046087496000601
+16457,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,sorghum,gregillea robusta,2018-04-01,3,1,no,no,no,no,yes,no,no,no,no,yes,yes,yes,0.0125738713639059
+12265,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,banana,Carca papaya,2018-03-01,4,2,no,no,no,yes,no,no,no,no,no,yes,no,yes,0.056005101075829
+13994,Eastern,Kayonza,yes,no,no,no,no,"",Yes,irish potatoes and banana,grevillea robusta,2018-06-01,18,15,no,no,yes,no,no,no,no,no,no,yes,no,yes,0.116884488957311
+24411,Eastern,Nyagatare,yes,no,no,no,no,"",No,"",Eucalptus Microcorus,2018-10-01,4542,0,yes,no,no,no,no,no,no,yes,no,yes,no,no,0.356652070819984
+36230,Eastern,Bugesera,yes,no,no,no,no,"",No,"",eucalyptus,2018-11-01,15000,12000,yes,no,no,no,no,no,no,yes,no,no,no,no,0.418526336698861
+2689,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,"",geveriya,2018-10-01,15,6,no,yes,yes,yes,no,no,no,yes,no,yes,no,no,0.0122877327986056
+16685,Eastern,Kayonza,yes,no,no,no,no,"",Yes,"ibigori, intsina amasaka",senna siamea,2018-11-01,30,12,no,no,no,no,yes,no,no,no,no,yes,no,yes,0.560508481138161
+9590,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,banana,grevillea robusta,2018-11-01,5,3,no,no,yes,no,no,no,no,yes,no,no,no,no,0.0291278250751151
+33912,Eastern,Bugesera,yes,no,no,no,no,"",No,"",grevellea,2018-10-01,7,4,no,yes,yes,no,no,no,no,yes,no,no,yes,yes,0.0123632553425315
+9166,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,banana trees,solanum betaseum,2018-11-01,4,2,no,no,no,no,yes,no,no,yes,no,yes,no,no,0.034256204510481
+33772,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"sunflower, banana and Maize",ibinyomoro,2018-10-01,5,5,yes,no,no,no,yes,no,no,no,no,no,no,yes,0.032780101888066
+3926,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,Bean,GrevelleaRobusta,2018-10-01,15,10,no,no,yes,no,no,no,no,no,no,yes,no,no,0.0438007515155239
+25475,Eastern,Bugesera,yes,no,no,no,no,"",Yes,banana trees,Carica papaya,2018-10-01,5,2,no,yes,no,no,yes,no,no,no,yes,yes,no,no,0.0652365525561984
+20471,Eastern,Kayonza,yes,no,no,no,no,"",Yes,Cassava,Gereveriya,2018-11-01,30,18,no,no,yes,no,no,no,no,no,no,yes,no,yes,0.128311811992269
+32763,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"Urutocyi, amateke",Ibinyomoro,2018-10-01,5,3,no,no,no,yes,no,no,no,no,no,yes,no,no,0.022678779860998
+3514,Eastern,Bugesera,yes,no,no,no,no,"",Yes,beans,eucalyptus m,2018-09-01,25,17,yes,yes,yes,no,yes,no,no,no,no,no,no,yes,0.00830938022557709
+25619,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"Bananas,Maize",Soatodeya,2018-11-01,5,3,no,no,yes,no,no,no,no,no,no,no,no,yes,0.00597474188892009
+9647,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,Bananas,Grevelia Robusta,2018-10-01,10,1,no,no,no,yes,no,no,no,yes,no,yes,no,no,0.118874853210922
+5051,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,carrot and cabbage,Grevilea robusta,2018-11-01,10,7,no,no,no,yes,no,no,no,no,no,yes,no,yes,0.0169580761183882
+27313,Eastern,Bugesera,yes,no,no,no,no,"",Yes,beansand maize,calica papaya,2018-10-01,30,20,no,no,no,no,yes,no,no,no,no,no,no,no,0.14165859839038
+21787,Eastern,Kayonza,yes,no,no,no,no,"",Yes,"",Grevellia robust,2018-10-01,40,27,no,yes,yes,no,no,no,no,yes,no,yes,no,yes,0.0717974951308332
+15460,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,Maize,Eucalyptus spp,2018-05-01,30,30,yes,no,no,no,no,no,no,no,no,yes,no,no,0.392607801481476
+12083,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,"Soja beans  , coffee and Maize",Grevillea Robusta/ Gereveliya,2018-11-01,5,3,no,yes,yes,no,no,no,no,no,no,yes,no,yes,0.0259700243735661
+36357,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,beans,grevellia Robusta,2018-11-01,60,45,no,no,yes,no,yes,no,no,no,no,yes,no,no,0.0820314241629499
+33637,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"Beans,Maize",Spatodeya,2018-12-01,4,3,no,yes,no,no,no,no,no,no,no,no,no,yes,0.04978948761988
+15857,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,"Cassava, Banana Plantation  and Sorghum.",Glevillea Robusta,2018-10-01,30,27,no,no,yes,no,no,no,no,yes,no,yes,no,no,1.70147459740521
+11522,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"Beans,maize ,banana and cassava",grevellia robusta,2018-10-01,100,40,no,yes,yes,no,no,no,no,yes,no,yes,no,yes,0.550265072955793
+22476,Eastern,Kayonza,yes,no,no,no,no,"",Yes,"Bananas, cassava",Grevelia robusta,2018-09-01,30,14,no,no,no,no,yes,no,no,yes,no,yes,no,no,0.136992680416339
+16998,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,beans,Grevellia Robusta,2018-11-01,6,4,no,no,yes,no,yes,no,no,yes,no,yes,no,no,0.0493910624205845
+15417,Eastern,Kicukiro,no,no,no,no,yes,"",Yes,beans,grevellia robusta,2017-03-01,8,1,no,no,yes,no,no,no,no,yes,no,no,no,no,0.0305443823863237
+27702,Eastern,Kayonza,yes,no,no,no,no,"",Yes,"Cassava, beans",Senna spectabilis,2018-11-01,20,15,no,no,yes,no,no,no,no,yes,no,yes,no,no,0.833378166575109
+6316,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,"Beans, bananas",Grevelia Robusta,2018-10-01,10,5,no,no,no,yes,no,no,no,yes,no,yes,no,no,0.0297368350249274
+33117,Eastern,Kayonza,yes,no,no,no,no,"",Yes,sorghum,Gleveria robusta,2018-09-01,3,3,no,no,no,yes,no,no,no,no,no,yes,no,yes,0.0323344955104542
+18144,Eastern,Bugesera,yes,no,no,no,no,"",No,"",eucalyptus,2018-11-01,300,130,yes,no,no,no,no,no,no,yes,no,yes,no,no,0.0916068951867855
+12065,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,maize,Carica Papaya,2018-12-01,3,3,no,no,no,yes,no,no,no,no,no,yes,yes,no,0.0318418890517775
+33482,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"ibigori,",Grevillea rubusta,2018-11-01,30,8,no,yes,yes,no,no,no,no,yes,no,yes,no,no,0.112693950309554
+31830,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,"Dodo, Napkins",Carica Papaya,2018-11-01,3,2,no,no,no,yes,no,no,no,no,no,yes,no,yes,0.0100582380622244
+3047,Eastern,Bugesera,yes,no,no,no,no,"",No,"",Eucalyptus spp,2018-11-01,50,42,yes,no,no,no,no,no,no,no,no,yes,no,no,0.0136950392148226
+29986,Eastern,Kayonza,yes,no,no,no,no,"",Yes,banana and maize,Acasia spp,2018-11-01,100,37,no,no,yes,no,no,no,no,yes,no,yes,no,no,0.760046685072733
+11600,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"insina, amateke",Grevillea rubusta,2018-11-01,120,30,no,yes,yes,no,no,no,no,yes,no,yes,no,no,0.384088920363627
+14805,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,coffee,glevirrea robusta,2018-11-01,10,8,no,no,yes,no,yes,no,no,yes,no,yes,no,no,0.0251959129664381
+19550,Eastern,Bugesera,yes,no,no,no,no,"",Yes,Sweet potato,Grevillea robusta,2018-10-01,5,3,no,no,yes,no,no,no,no,yes,no,yes,no,no,0.170930140275193
+15765,Eastern,Kayonza,yes,no,no,no,no,"",Yes,banana,kasiya,2018-12-01,8,4,no,no,yes,no,no,no,no,no,no,yes,no,yes,0.141286140986254
+28582,Eastern,Kayonza,yes,no,no,no,no,"",Yes,coffee,glevirrea robusta,2018-10-01,30,23,no,yes,yes,no,yes,no,no,yes,no,yes,no,no,0.0975569868319893
+17746,Eastern,Kayonza,yes,no,no,no,no,"",Yes,Sweat Potatoes,Grevillea Robusta,2018-10-01,5,3,no,no,no,no,yes,no,no,no,no,no,yes,yes,0.0392486811181286
+25417,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,Banana,Grevillea Robusta,2018-11-01,20,15,no,no,yes,no,no,no,no,yes,no,yes,no,yes,0.223817405185567
+10376,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,"",grevellea robusta,2018-11-01,200,170,no,no,yes,no,no,no,no,no,no,no,no,no,0.229157922693493
+20539,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,Maize,Grevillea robusta,2018-10-01,100,60,no,yes,no,no,yes,no,no,yes,no,yes,no,yes,0.51957989019676
+30494,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,"Banana,coffee and pataoes",Grevillea Robusta/Gereveliya,2018-11-01,10,6,no,yes,yes,no,no,no,no,yes,no,yes,no,yes,0.0241542305462876
+9737,Eastern,Bugesera,yes,no,no,no,no,"",Yes,coffee,Grevellia,2018-09-01,30,9,no,no,yes,no,no,no,no,no,no,no,yes,no,0.0593846337459713
+16967,Eastern,Kayonza,yes,no,no,no,no,"",Yes,"sorghum,beans,maize",glevirrea robusta,2018-11-01,30,25,no,no,yes,no,yes,no,no,no,no,yes,no,yes,0.165326168890139
+35649,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,Maize and Bananas,Grevillea Robusta/Gereveliya,2018-11-01,15,8,no,yes,no,no,no,no,no,yes,no,yes,no,no,0.0202976551696585
+15723,Eastern,Kayonza,yes,no,no,no,no,"",Yes,banana,Grevellea rubusta,2018-10-01,15,13,no,no,yes,no,no,no,no,no,no,yes,no,yes,0.0747351785681736
+26661,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,banana,Croton megalocarpus,2018-10-01,2,2,no,no,yes,yes,no,no,no,yes,no,yes,no,no,0.0219086490748876
+27286,Eastern,Bugesera,yes,no,no,no,no,"",Yes,banana,mango,2018-09-01,5,4,no,yes,yes,yes,yes,no,no,yes,no,no,yes,yes,0.0161527486495396
+7360,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,"Cassava, Beans, Maize, Sorghum",Grevellea Robusta,2018-10-01,10,10,no,no,yes,no,yes,no,no,yes,no,yes,no,yes,0.0696666045278565
+19229,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,bananas and maize,grevillea robusta,2018-11-01,20,16,no,no,yes,no,no,no,no,yes,no,yes,no,no,0.0634687208197473
+6852,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,maize banana,Grevillea robusta,2018-11-01,5,3,no,no,no,yes,no,no,no,yes,no,no,no,no,0.0138455850998731
+2608,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"Beans,maize",Grevillea robusta,2018-11-01,20,7,no,no,yes,no,no,no,no,yes,no,yes,no,no,0.0138217311743531
+28995,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,banana,Grevillea robusta,2018-11-01,5,3,no,no,yes,no,no,no,no,yes,no,yes,no,yes,0.027507208173306
+19955,Eastern,Kayonza,yes,no,no,no,no,"",Yes,"maize, beans, cassava trees",senna spectabilis,2018-11-01,23,19,no,no,yes,no,yes,no,no,yes,no,yes,no,no,0.120789217196943
+28006,Eastern,Kayonza,yes,no,no,no,no,"",Yes,cassava and maize,Grevillea robusta,2018-12-01,20,8,no,yes,yes,no,no,no,no,yes,no,no,no,yes,0.120104274800811
+7677,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,maize,Grevellia robusta,2018-11-01,5,5,no,no,no,no,yes,no,no,yes,no,yes,no,yes,0.0879300582413439
+110,Eastern,Bugesera,yes,no,no,no,no,"",Yes,Beans,Grevelia Robusta,2018-10-01,20,9,no,no,yes,no,no,no,no,yes,no,yes,no,no,0.087424322773499
+2309,Eastern,Kayonza,yes,no,no,no,no,"",Yes,banana,carica papaya,2018-11-01,20,12,no,no,no,no,yes,no,no,no,no,yes,yes,yes,0.215821955526696
+37261,Eastern,Bugesera,yes,no,no,no,no,"",No,"",Eucalyptus camaldulensis,2018-11-01,400,350,yes,no,no,no,no,no,no,yes,no,yes,no,no,0.0922823591367785
+4881,Eastern,Kayonza,yes,no,no,no,no,"",Yes,Sorghum,Grevillea robusta,2018-11-01,50,45,no,yes,yes,no,no,no,no,yes,no,yes,no,no,1.12597717018074
+30633,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,banana tree,Maesopsis,2018-09-01,1,1,no,no,no,yes,no,no,no,no,no,no,no,no,0.0521461577324148
+26096,Eastern,Kayonza,yes,no,no,no,no,"",Yes,"",Grevellia robusta,2018-11-01,20,14,no,no,no,yes,no,no,no,no,no,yes,no,yes,0.0306705672117948
+21206,Eastern,Bugesera,yes,no,no,no,no,"",No,"",Calica papaya,2018-10-01,6,1,no,no,no,yes,no,no,no,no,no,no,no,no,0.0587507133575386
+10703,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,Maize,Grevellea Robusta,2018-11-01,70,50,no,yes,no,no,no,no,no,yes,no,yes,no,no,0.368862962818728
+7922,Eastern,Kayonza,yes,no,no,no,no,"",Yes,beans and banana,grevillea robusta,2018-11-01,10,1,no,no,no,no,yes,no,no,no,no,yes,no,yes,0.0853734411810335
+27056,Eastern,Bugesera,yes,no,no,no,no,"",Yes,banana,spatodia,2018-09-01,1,1,no,no,no,yes,no,no,no,no,no,no,yes,yes,0.0162566848279266
+14809,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,"maise, beans, bananaplant",grevillea robusta,2018-11-01,30,21,no,yes,yes,no,yes,no,no,yes,yes,yes,no,no,0.344162088939364
+30750,Eastern,Kayonza,yes,no,no,no,no,"",No,"",grevallia robusta,2018-11-01,30,16,no,yes,yes,no,no,no,no,yes,no,no,no,no,0.136896918766984
+36243,Eastern,Bugesera,yes,no,no,no,no,"",Yes,ibirayi,gereveria,2018-07-01,20,6,no,no,yes,no,no,no,no,yes,no,yes,no,no,0.0234598870656375
+25567,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,cassava and potatoes,Grevillea Robusta/ Gereveliya,2018-11-01,10,5,no,yes,yes,no,no,no,no,yes,no,yes,no,no,0.0962604039002907
+13581,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,"maize, soybean",grevillea robusta,2018-11-01,15,15,no,yes,yes,no,no,no,no,yes,no,yes,no,no,0.102034708646081
+20290,Eastern,Kayonza,yes,no,no,no,no,"",Yes,banana,markamia rutea,2018-10-01,10,7,no,yes,no,yes,yes,no,no,no,no,yes,no,yes,0.0384381191232849
+12131,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,"maize, groundnuts and Irish potatoes
+",Grevillea robusta,2018-11-01,20,15,no,no,yes,no,no,no,no,yes,no,yes,no,no,0.132608256438746
+23130,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,urutocye,glevirrea robusta,2018-11-01,10,7,no,yes,yes,yes,no,yes,no,no,no,yes,no,no,0.0437134699793083
+4635,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,"Bananas, beans",Grevillea robusta,2018-11-01,5,3,no,no,no,yes,no,no,no,yes,no,yes,no,no,0.0552758224521767
+15636,Eastern,Bugesera,yes,no,no,no,no,"","","",Greveriya,2018-09-01,100,50,no,yes,yes,no,no,no,no,no,no,no,no,yes,0.212148103909478
+19289,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"igitoki, amateke,imyumbati",grevellia,2018-10-01,148,46,no,yes,yes,no,no,no,no,yes,no,yes,no,no,0.0587484173584629
+604,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"Ibigori, Ubunyobwa, Imyumbati",Gereveliya,2018-11-01,20,4,no,no,yes,no,no,no,no,no,no,yes,no,no,0.120183660969683
+4837,Eastern,Kayonza,yes,no,no,no,no,"",No,"",eucaryptus,2018-11-01,50,16,no,no,no,no,yes,yes,no,no,no,yes,no,no,0.0109662755203114
+4308,Eastern,Bugesera,yes,no,no,no,no,"",No,"",Eucalyptus,2018-11-01,3500,3000,yes,no,no,no,no,no,no,yes,no,no,no,no,0.0663740561722923
+26293,Eastern,Bugesera,yes,no,no,no,no,"",Yes,urutoki,gereveria,2018-09-01,20,15,no,yes,yes,no,no,no,no,no,no,yes,yes,no,0.110797014529114
+9483,Eastern,Bugesera,yes,no,no,no,no,"",Yes,banana,orange,2018-12-01,5,1,no,no,no,yes,no,no,no,no,no,yes,no,yes,0.0143922141151251
+3089,Eastern,Kayonza,yes,no,no,no,no,"",Yes,"sorghum,banana trees",Grevilea robusta,2018-10-01,10,1,no,yes,no,no,no,no,no,yes,no,no,no,no,0.0660283474974509
+144,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,"Cassava, Yarms, Banana Plantation and  Sweet Potatoes.",solanum betaseum,2018-11-01,5,5,no,yes,no,no,no,no,no,no,no,yes,no,yes,0.0741619963282547
+10851,Eastern,Kayonza,yes,no,no,no,no,"",Yes,Banana trees,Gereveriya,2018-12-01,20,14,no,no,yes,no,no,no,no,no,no,yes,no,yes,0.132946208052473
+13889,Eastern,Bugesera,yes,no,no,no,no,"",Yes,ibihaza,ipapayi,2018-11-01,4,2,no,no,no,yes,no,no,no,no,no,yes,no,no,0.0154013040978898
+17020,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"ibisusa,urutoki",Ipapayi,2018-10-01,9,1,no,no,no,yes,no,no,no,no,no,yes,yes,yes,0.0917341335682211
+30886,Eastern,Kayonza,yes,no,no,no,no,"",Yes,Banana,Senna spectablis,2018-10-01,40,6,no,no,yes,no,no,no,no,no,no,yes,no,no,0.034606771626386
+8342,Eastern,Bugesera,no,no,no,yes,no,"",No,"",grevillea,2018-10-01,70,20,no,no,no,yes,no,no,no,no,no,yes,no,no,0.0434965585219896
+27937,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,"bananas ,cassava,yam",grevillea robusta,2018-11-01,50,43,no,no,yes,no,no,no,no,no,no,yes,no,no,0.0430247451335017
+36398,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,Irish potatoes,grevillea robusta,2018-11-01,15,7,no,no,yes,no,no,no,no,no,no,yes,no,no,0.0121794367190457
+21388,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,"Tomatoes,cassava and banana",Grevillea robusta,2018-11-01,20,17,no,no,yes,no,no,no,no,yes,no,yes,no,no,0.0724599423300666
+3060,Eastern,Kayonza,yes,no,no,no,no,"",Yes,cassava and maize,Grevillea robusta,2018-11-01,6,4,no,no,yes,no,no,no,no,no,no,yes,no,no,0.0257001098386791
+2302,Eastern,Kayonza,yes,no,no,no,no,"",Yes,cassava,Grevillea robusta,2018-06-01,20,10,no,no,yes,no,yes,no,no,no,no,yes,no,yes,0.160422624078068
+11750,Eastern,Bugesera,yes,no,no,no,no,"",No,"",Eucaryptus microcolus,2018-09-01,300,120,yes,no,no,no,no,no,no,yes,no,no,no,no,0.0459330216505273
+26808,Eastern,Bugesera,yes,no,no,no,no,"",Yes,pumpkin maize,Persea Americana,2018-10-01,5,1,no,no,no,yes,no,no,no,yes,no,yes,no,yes,0.0155581176267143
+11881,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,Banana tree and maize,Grevilea robusta,2018-11-01,32,18,no,yes,no,no,yes,no,no,yes,yes,no,no,no,1.08811933882225
+31075,Eastern,Kayonza,yes,no,no,no,no,"",Yes,banana,umuhumuro,2018-09-01,6,6,no,yes,yes,yes,yes,no,no,no,yes,no,no,yes,0.208164336007716
+25010,Eastern,Bugesera,yes,no,no,no,no,"",Yes,Insina+Ibigori+Imyumbati,Inturusu,2018-10-01,50,35,yes,no,no,no,no,no,no,no,no,yes,no,no,0.0147266438062324
+34239,Eastern,Kayonza,no,no,no,yes,no,"",Yes,cassava,grevellea,2018-11-01,45,19,no,yes,no,no,no,no,no,yes,no,no,yes,yes,1.07620113274598
+10998,Eastern,Kayonza,yes,no,no,no,no,"",Yes,beans,sena spectabulis,2018-12-01,10,5,no,no,yes,no,no,no,no,no,no,yes,no,no,0.0780404072880238
+5874,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,"maize, yam,soja, avocados cassava,bananas",grevillea robusta,2018-11-01,12,5,no,yes,no,yes,no,no,no,no,no,yes,no,no,0.0867458838346752
+26255,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,"Banana, Sorghum, Sweet potatoes",Grevellea Robusta,2018-10-01,20,16,no,yes,yes,yes,yes,no,no,yes,no,yes,no,yes,0.0743524442523176
+10348,Eastern,Kayonza,yes,no,no,no,no,"",Yes,Beans,Grevillea robusta,2018-12-01,30,18,no,yes,yes,no,no,no,no,no,no,yes,no,yes,0.386756247549738
+3543,Eastern,Bugesera,yes,no,no,no,no,"",Yes,tobacco,carica papaya,2018-11-01,7,5,no,yes,no,yes,no,no,no,no,no,no,no,yes,0.000544236112926435
+23167,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"ibijumba,imyumbati,ibitocyi",Gereveriya,2018-10-01,7,4,no,no,yes,no,no,no,no,no,no,yes,no,no,0.080099666179746
+30596,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,"",gleveriya/gereveriya,2018-01-01,5,2,no,no,yes,no,no,no,no,no,no,no,no,yes,0.115162400042413
+5539,Eastern,Kayonza,yes,no,no,no,no,"",Yes,banana crops,Grevillea robusta,2018-12-01,15,8,no,no,yes,no,no,no,no,yes,no,yes,no,yes,0.140012722087527
+483,Eastern,Kayonza,yes,no,no,no,no,"",Yes,Beans,Grevillea robusta,2018-11-01,10,2,no,no,no,no,yes,no,no,yes,no,yes,no,no,0.0407606902120053
+30903,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,"banana,",grevillea Robusta,2018-11-01,2,2,no,no,yes,no,no,no,no,no,no,no,no,no,0.0288291923256206
+15593,Eastern,Bugesera,yes,no,no,no,no,"",Yes,beans,avocado,2018-09-01,5,4,no,no,no,yes,yes,no,no,no,no,no,yes,yes,0.139652777697583
+15064,Eastern,Kayonza,yes,no,no,no,no,"",Yes,sorghum,grevillea robusta,2018-09-01,100,80,no,yes,no,no,no,no,no,no,no,yes,no,no,0.597167463704109
+20083,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,maize and banana,Grevillea Robusta,2018-11-01,40,38,no,no,yes,no,yes,no,no,yes,no,yes,no,no,3.27148259996335
+4757,Eastern,Bugesera,yes,no,no,no,no,"",Yes,Sorghum,Eucalyptus Microcolis,2018-09-01,60,40,yes,no,no,no,no,no,no,yes,no,yes,no,no,0.303860138047732
+30870,Eastern,Bugesera,yes,no,no,no,no,"",Yes,banana,mangifer indica,2018-10-01,7,1,no,no,no,no,yes,no,no,no,no,yes,no,yes,0.88946848138445
+32313,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,Beans,Tree tomato,2018-10-01,2,1,no,yes,no,no,yes,no,no,no,no,no,no,yes,0.0582081167467554
+27025,Eastern,Kayonza,yes,no,no,no,no,"",Yes,"Sweet potatoes, Beans",grevallia robusta,2018-11-01,25,2,no,no,no,no,yes,no,no,no,no,yes,no,yes,0.111797977006255
+6190,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"beans, bananas",tamallilo,2018-10-01,5,3,no,no,no,no,yes,no,no,no,no,yes,no,no,0.0469433932114967
+30684,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,Banana plantation,Grevellea robusta,2018-10-01,50,40,no,no,no,no,yes,no,no,yes,no,yes,no,yes,0.22707359775643
+22433,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"imyumbati, amateke, ibigori, ibishyimbo",Grevillea robusta,2018-11-01,45,29,no,yes,yes,no,no,no,no,no,no,no,no,no,0.111050253811689
+11039,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,banana tree,Grevillea robusta,2018-10-01,10,10,no,yes,no,yes,no,no,no,yes,no,no,no,no,0.048601909636074
+12184,Eastern,Bugesera,yes,no,no,no,no,"",Yes,intoryi,gasiya,2018-09-01,15,8,no,no,yes,no,no,no,no,no,no,yes,yes,no,0.0309494856021136
+29473,Eastern,Kayonza,yes,no,no,no,no,"",Yes,banana crops,Markhamia lutea,2018-10-01,3,1,no,no,yes,no,no,no,no,no,no,yes,no,yes,0.0237048554804058
+30908,Eastern,Kayonza,no,no,no,yes,no,"",Yes,"groundnut,Maize, Sojabeans",Grevillea robusta,2018-10-01,400,100,no,yes,no,no,yes,no,no,yes,no,yes,no,yes,2.18275214663952
+34845,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,casava,Grevilea robusta,2018-10-01,13,8,no,no,yes,no,yes,no,no,no,no,yes,yes,no,0.0389217518360603
+26895,Eastern,Kayonza,yes,no,no,no,no,"",Yes,avocado and cassava,caliandra,2018-10-01,5,2,no,no,yes,no,no,no,no,yes,no,no,no,no,0.11041768480446
+33209,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,Beans,Grevillea robusta,2018-11-01,30,25,no,yes,yes,no,no,no,no,yes,no,yes,no,no,0.208924580442678
+28155,Eastern,Kayonza,yes,no,no,no,no,"",Yes,banana,Grevillea robusta,2018-10-01,50,20,no,no,yes,no,no,no,no,no,no,yes,no,no,0.13457637892532
+16192,Eastern,Kayonza,yes,no,no,no,no,"",Yes,sweet potatoes,Tamarlo,2018-12-01,5,1,no,no,no,yes,no,no,no,no,no,yes,no,yes,0.0479618273080669
+36363,Eastern,Bugesera,yes,no,no,no,no,"",Yes,Beans and Maiz,Sena spectabilis,2018-09-01,40,28,no,no,no,no,yes,no,no,yes,no,yes,no,no,0.286408427194147
+27158,Eastern,Kayonza,yes,no,no,no,no,"",Yes,sorghum,Jack fruit,2018-10-01,5,2,no,yes,no,no,yes,no,no,yes,no,yes,no,no,0.080180666966835
+29961,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,"",ironji,2018-11-01,2,2,no,no,no,no,yes,no,no,no,no,yes,yes,yes,0.0622758953054581
+3366,Eastern,Kayonza,yes,no,no,no,no,"",Yes,"banana, cassava",markhamia lutea,2018-10-01,5,4,no,no,no,no,yes,no,no,yes,no,yes,no,no,0.0188109106885781
+35254,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,"sweet potatoes, maize and cassava",Grevillea robusta,2018-11-01,40,30,no,no,yes,no,no,no,no,yes,no,yes,no,no,0.0795653830824582
+1763,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"beans ,banana tree",senna spectabilis,2018-10-01,5,2,no,yes,no,no,yes,no,no,no,no,no,no,no,0.032759479405099
+9723,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,banana crops,Grevillea robusta,2018-09-01,100,60,no,yes,yes,no,yes,no,no,yes,no,yes,no,yes,0.891174750958214
+32358,Eastern,Kayonza,yes,no,no,no,no,"",No,"",Jack fruit,2018-08-01,7,2,no,no,no,yes,no,no,no,no,no,yes,yes,yes,0.070325369266721
+32042,"",Nyagatare,"","","","","","","","",Cajualina Equisetifolia,2018-09-01,50,30,no,no,no,no,yes,no,no,no,no,no,no,no,1.36799561675931
+161,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,"maize, green vegetables",Eucalyptus microcorus,2018-11-01,13,7,no,yes,no,no,yes,no,no,yes,yes,yes,no,no,0.051240876103462
+35950,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,"Cassava maize, beans",Spathodea campanulate,2018-11-01,1,1,no,no,no,no,yes,no,no,yes,no,yes,no,no,0.0643969126814624
+26237,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"",Carica papaya,2018-10-01,12,1,no,no,no,no,yes,no,no,no,no,yes,no,no,0.0495103495886067
+35241,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,bananas,Grevillea Robusta,2018-11-01,25,20,no,no,no,no,yes,no,no,yes,no,yes,no,no,0.286980739864027
+29820,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,"maize, banana",senna spectabilis,2018-09-01,25,11,no,yes,yes,yes,yes,no,no,no,no,no,no,yes,1.29239387967143
+15349,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,"amasaka, ibishyimbo, ibigori",gasiha,2018-11-01,6,4,no,yes,no,no,yes,no,no,no,no,no,no,yes,0.30707815538989
+11141,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,ibigori,grevillea,2018-11-01,25,9,no,yes,no,no,yes,no,no,yes,no,yes,no,yes,0.41002379861447
+9160,Eastern,Kayonza,yes,no,no,no,no,"",Yes,banana,glevirrea robusta,2018-10-01,15,12,no,yes,no,yes,yes,no,no,no,no,yes,no,no,0.0425445873426029
+32783,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,"maize,beans",Grevillea robusta,2018-11-01,15,12,no,yes,no,no,yes,no,no,yes,no,no,no,no,0.398510260647202
+12733,Eastern,Bugesera,yes,no,no,no,no,"",No,"",eucalyptus sp,2018-11-01,2500,2200,yes,no,no,no,no,no,no,no,no,no,yes,yes,1.27120242484989
+3461,Eastern,Kayonza,yes,no,no,no,no,"",Yes,sorghum,grevellea,2018-10-01,15,8,no,yes,yes,no,yes,no,no,yes,yes,no,no,yes,0.158004619220662
+14149,Eastern,Kayonza,yes,no,no,no,no,"",Yes,"Morning, beans, maize",Grevillea robusta,2018-11-01,40,23,no,yes,yes,no,no,no,no,yes,no,no,no,no,0.216908107179663
+32445,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,"Gleveriya/Gereveriya, persallaAmericana/Avoca, Carica Papaya/ipapayi",Gleveriya/Gereveriya,2018-10-01,10,6,no,no,yes,yes,yes,no,no,no,no,no,no,yes,0.177700017364823
+13905,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,Beans & Maize,Grevillea Robusta,2018-10-01,20,13,no,no,no,yes,no,no,no,yes,no,no,no,no,0.468359565396164
+36909,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,"maize, beans",Grevillea Robusta,2018-11-01,20,15,no,no,yes,no,no,no,no,yes,no,yes,no,no,0.109971941567223
+12599,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,urutocye,glevirrea robusta,2018-11-01,60,55,no,no,yes,yes,yes,no,no,no,no,yes,no,no,0.110667551827129
+17392,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,bananas,solanum betaseum,2018-11-01,4,4,no,yes,no,no,no,no,no,no,no,yes,no,yes,0.0849438540863237
+28877,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,ibishyimbo,Coroton,2018-11-01,5,1,no,no,yes,no,no,no,no,yes,no,yes,no,no,0.0674587710717347
+24981,Eastern,Bugesera,yes,no,no,no,no,"",No,"",Eucalyptus,2018-10-01,1000,800,yes,no,no,no,no,no,no,yes,no,yes,yes,no,0.312565989235295
+37134,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,Maize and banana,Grevillea robusta,2018-11-01,15,10,no,no,no,yes,no,no,no,yes,no,yes,no,no,0.0818334028183216
+31556,Eastern,Bugesera,yes,no,no,no,no,"",Yes,banana,markhamia lutea,2018-09-01,25,14,no,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,0.0876158611421605
+19840,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,"groundnuts, maise, cassava",grevillea robusta,2018-11-01,20,9,no,yes,yes,no,yes,no,no,yes,yes,yes,no,no,0.11914908102434
+25542,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,"banana,beans",Grevillea robusta,2018-10-01,15,8,no,yes,no,no,yes,no,no,yes,no,yes,no,yes,0.0473530834524385
+23562,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"ibishyimbo, ibigori",mangifera indica,2018-11-01,20,7,no,no,no,no,yes,no,no,yes,no,yes,no,no,0.07035464074488
+23201,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,Sorghum,Grevillea Robusta,2018-11-01,35,30,no,yes,yes,no,yes,no,no,yes,no,yes,no,yes,0.274108963547552
+10354,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,"ibishyimbo, ibigori, ibihwagari, imyumbati",gasiha,2018-11-01,20,16,no,yes,no,no,yes,no,no,no,no,yes,no,yes,0.44151421199074
+14105,Eastern,Kayonza,yes,no,no,no,no,"",Yes,Banana,Markamea lutea,2018-10-01,6,5,no,no,no,yes,no,no,no,yes,no,no,no,no,0.0363440738469604
+25250,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,"Banana Plantation, Maize  and Sunbuds.",Glevillea Robusta,2018-11-01,5,2,no,no,no,yes,no,no,no,yes,no,no,no,no,0.0319300497431533
+318,Eastern,Kayonza,yes,no,no,no,no,"",Yes,cassava and Irish potatoes,Grevillea robusta,2018-10-01,20,8,no,yes,yes,no,no,no,no,no,no,yes,no,yes,0.0774560335132782
+18306,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,Maizes,Grevillea Robusta,2018-10-01,8,3,no,yes,no,no,no,no,no,yes,no,no,no,yes,0.0149575035675873
+18785,Eastern,Kayonza,yes,no,no,no,no,"",Yes,banana,Carica papaya,2018-10-01,8,1,no,no,no,yes,no,no,no,no,no,yes,no,yes,0.0459490873920494
+34703,Eastern,Kayonza,yes,no,no,no,no,"",Yes,banana,calliandra calotrisus,2018-11-01,50,24,no,no,no,yes,no,no,no,no,no,yes,no,no,0.0515708176422615
+6496,Eastern,Kayonza,yes,no,no,no,no,"",Yes,Potatoes,Grevillea robusta,2018-09-01,30,16,no,yes,yes,no,no,no,no,yes,no,yes,no,yes,0.109542671609685
+24694,Eastern,Kayonza,yes,no,no,no,no,"",Yes,Maize,Papayi,2018-12-01,5,5,no,no,no,yes,no,no,no,no,no,yes,yes,yes,0.0368877709294776
+23793,Eastern,Kayonza,yes,no,no,no,no,"",Yes,maize,glevirrea robusta,2018-11-01,106,0,no,yes,yes,yes,yes,no,no,yes,no,yes,no,yes,0.0506620684847168
+5768,Eastern,Kayonza,yes,no,no,no,no,"",Yes,cassava and banana,Grevillea robusta,2018-09-01,30,21,no,yes,yes,no,no,no,no,no,no,yes,no,yes,0.103707480152687
+27747,Eastern,Kayonza,yes,no,no,no,no,"",Yes,"cassava,. soyabeans",solanum betaceum,2018-10-01,10,6,no,yes,no,yes,yes,no,no,no,no,yes,no,no,0.235899442351324
+24038,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,casava,Spathodea campanulata,2018-11-01,2,2,no,no,no,yes,no,no,no,no,no,no,yes,no,0.846550778197485
+12924,Eastern,Kayonza,yes,no,no,no,no,"",Yes,"banana, beans",Grevellea robusta,2018-10-01,60,18,no,no,yes,yes,yes,no,no,yes,no,yes,no,yes,0.141562307689116
+8379,Eastern,Bugesera,yes,no,no,no,no,"",No,"",Ecalyptus,2018-11-01,50,50,yes,no,no,no,no,no,no,no,no,yes,no,no,0.0471339139590232
+22214,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,banana,calliandra collothylisis,2018-11-01,5,4,no,no,yes,no,no,no,no,no,no,no,no,yes,0.0222657253277147
+5318,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,"maize,banana ,casava",grevillea robista,2018-11-01,5,5,no,yes,no,no,no,no,no,no,no,yes,no,no,0.124081578058911
+3564,Eastern,Kayonza,yes,no,no,no,no,"",Yes,mice and cassava,grevellia robusta,2018-02-01,15,5,no,no,yes,no,no,no,no,yes,no,no,no,no,0.0635513521496217
+14878,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"beans,Maize",Mangifera,2018-11-01,15,12,no,yes,no,no,yes,no,no,no,no,no,yes,yes,0.258655193490767
+34046,Eastern,Kayonza,yes,no,no,no,no,"",Yes,beans,Eucalyptus spp,2018-12-01,180,120,yes,no,no,no,no,no,no,yes,no,yes,no,yes,0.0964551791959457
+31159,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"Cassava, sorghum",Grevillea robusta,2018-11-01,10,8,no,no,yes,no,no,no,no,yes,no,yes,no,no,0.150801370985659
+30560,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"Beans , maize and cassava",Carica papaya,2018-09-01,15,7,no,no,no,yes,yes,no,no,no,no,yes,no,yes,0.169872749347234
+16312,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,amasaka,calica papaya,2018-11-01,1,1,no,no,no,no,yes,no,no,no,no,no,yes,yes,0.102191825225296
+6223,Eastern,Kayonza,yes,no,no,no,no,"",Yes,banana;,Grevellia robusta,2018-10-01,8,3,no,no,yes,no,no,no,no,no,no,no,yes,no,0.0271578947886673
+22661,Eastern,Bugesera,yes,no,no,no,no,"",Yes,Sorgham,Citrus Lemon,2018-10-01,5,3,no,no,no,yes,no,no,no,no,no,yes,no,no,0.0558372487944254
+24611,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,"irish potatoes, maize",Grevillea robusta,2018-11-01,10,7,no,no,yes,no,no,no,no,yes,no,yes,no,no,0.0312019471980157
+36749,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,sweet potatoes,Grlleveria robusta,2018-11-01,5,3,no,yes,no,no,no,no,no,yes,no,yes,no,no,0.0469916709489702
+23088,Eastern,Kayonza,yes,no,no,no,no,"",Yes,"insina, amateke, ibigori",Eucalyptus,2018-11-01,300,200,yes,no,no,no,no,yes,no,yes,no,no,no,no,0.353728173093874
+15667,Eastern,Kayonza,yes,no,no,no,no,"",Yes,banana,Tamarillo,2018-03-01,100,90,no,no,no,yes,no,no,no,no,no,yes,yes,yes,0.0954044449779145
+32303,"",Bugesera,"","","","","","","","",gliricidia,2018-11-01,10,6,no,yes,no,no,yes,no,no,no,no,yes,no,no,0.44437858873329
+32787,Eastern,Bugesera,yes,no,no,no,no,"",Yes,amatunda,Avoca,2018-10-01,2,1,no,no,no,no,yes,no,no,no,no,no,no,no,0.0104075294151057
+247,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,moize and banana,Sena spectabilis,2018-12-01,15,15,no,no,yes,yes,no,no,no,yes,no,yes,no,yes,0.106074484981804
+13571,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,Beans,Grevillea Robusta,2018-10-01,15,12,no,no,yes,no,no,no,no,yes,no,no,no,no,0.167295108216118
+25214,Eastern,Kayonza,yes,no,no,no,no,"",Yes,"soja, maize Irish potatoes",Senna spectabilis,2018-12-01,5,3,no,no,yes,no,no,no,no,yes,no,yes,no,yes,0.00930960078729883
+8032,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,"maize, cassava and sunflower",Mesopsis emnii,2018-11-01,2,2,no,no,yes,no,yes,yes,no,no,no,yes,no,yes,0.0556792842218255
+22389,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"insina, imyumbati",Grevillea robusta,2018-11-01,15,6,no,yes,no,no,yes,no,no,yes,no,no,no,no,0.08065533892807
+14770,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,"ibirayi, ibigori, ibihwagari, imyumbati",grevillea,2018-11-01,20,7,no,yes,no,no,yes,no,no,yes,no,yes,no,yes,0.0817611760284227
+8464,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,sweet potatoes,Grevillea robusta,2018-11-01,5,2,no,no,yes,no,no,no,no,yes,no,yes,no,no,0.0679288474543933
+111,Eastern,Bugesera,yes,no,no,no,no,"",Yes,Maize,Avocado,2018-09-01,8,6,no,no,no,yes,no,no,no,no,no,yes,yes,yes,0.0610649168100552
+62,Eastern,Kayonza,yes,no,no,no,no,"",Yes,"maize, beans and banana",sena spectabulis,2018-11-01,30,19,no,no,no,yes,no,no,no,no,no,yes,no,no,0.0655980052982003
+3782,Eastern,Kayonza,yes,no,no,no,no,"",Yes,beans,glevirrea robusta,2018-11-01,4,4,no,no,yes,no,yes,no,no,no,no,yes,no,yes,0.00296673198097068
+7085,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,Irish potatoes and groundnuts,Grevillea robusta,2018-11-01,8,5,no,yes,yes,no,no,no,no,yes,no,yes,no,no,0.0264500535092477
+1536,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,"maize,ground nuts",grevillea ribusta,2018-10-01,5,5,no,yes,no,no,no,no,no,no,no,yes,no,yes,0.0727908885607001
+7248,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,"Maize, Cassava",Eucaryptus,2018-11-01,200,70,no,no,no,no,yes,no,no,yes,yes,yes,no,no,0.13431782090932
+28510,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"imyumbati, amasaka , ibigori , ibirayi.",Grevillea robusta,2018-11-01,45,39,no,yes,yes,no,yes,no,no,yes,no,no,no,no,0.150985398981273
+26897,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,"sojabeans,banana,maize",Grevillea robusta,2018-10-01,20,13,no,yes,no,no,yes,no,no,yes,no,yes,no,yes,0.482543269267102
+33070,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,urutoki,gereveria,2018-11-01,500,380,no,no,yes,no,no,no,no,yes,no,yes,no,no,0.795931921956931
+15749,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,"Maizes, Sweet Potatoes",Grevillea Robusta,2018-11-01,20,13,no,yes,yes,no,yes,no,no,no,no,yes,no,yes,0.0674895246071891
+32843,Eastern,Bugesera,yes,no,no,no,no,"",Yes,banana Tree,Carrica Papaya,2018-10-01,1,1,no,no,no,no,yes,no,no,no,no,no,yes,yes,0.0866085081897113
+22687,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,tomatoes and cassava,Grevilea robusta,2018-11-01,10,10,no,no,no,no,yes,no,no,yes,no,yes,no,no,0.0493700658490782
+19926,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,ibigori,gereveria,2018-11-01,60,27,no,no,yes,no,no,no,no,yes,no,yes,no,no,0.222483309474451
+8554,Eastern,Kayonza,yes,no,no,no,no,"",Yes,"Maize, Sweet potatoes",Grevillea robusta,2018-10-01,15,8,no,yes,no,no,yes,no,no,yes,no,yes,no,yes,0.122119038147483
+30819,Eastern,Bugesera,yes,no,no,no,no,"",Yes,banana crocase cassava,Tamaliro Indica,2018-10-01,5,4,no,no,no,no,yes,no,no,no,no,yes,no,yes,0.0546620600390041
+26824,Eastern,Bugesera,yes,no,no,no,no,"",Yes,amasaka,Avoca,2018-11-01,4,1,no,yes,yes,no,yes,no,no,no,no,yes,no,no,0.005486356486898
+36305,Eastern,Bugesera,yes,no,no,no,no,"",No,banana,grevelia,2018-09-01,30,9,no,yes,no,yes,no,no,no,no,no,no,yes,no,0.129349575233638
+22300,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,maize,Gerevellia robusta,2018-11-01,10,6,no,no,no,yes,no,no,no,yes,no,yes,no,no,0.0218908811391921
+17641,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,"maize ,tomatoes ,sunflowers",grevillea robusta,2018-11-01,30,28,no,no,yes,no,no,no,no,no,no,yes,no,no,0.115011973628737
+25431,"",Nyagatare,"","","","","","","","",eucalyptus,2018-11-01,30,21,yes,no,no,no,no,no,no,yes,no,yes,no,yes,0.572602727682208
+31823,Eastern,Kayonza,yes,no,no,no,no,"",Yes,sorghum and cassava,grevallia robusta,2018-10-01,20,4,no,no,yes,no,no,no,no,yes,no,yes,no,no,0.0559449705476437
+34820,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"ibishyimbo, ibigori, insina, amateke",spatodea,2018-11-01,5,3,no,yes,yes,no,no,no,no,no,no,yes,no,no,0.123986785035277
+18409,Eastern,Kayonza,yes,no,no,no,no,"",Yes,Banana,Grevaria,2018-10-01,20,16,no,no,yes,no,no,no,no,no,no,yes,no,no,0.368107593640841
+13826,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,zai maize,Grevillea Robusta,2018-11-01,30,20,no,yes,yes,no,no,no,no,yes,no,yes,no,no,0.246022106301116
+16944,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,sogham,Grevillea Robusta,2018-10-01,50,38,no,yes,yes,no,yes,no,no,yes,no,no,no,no,0.415499202229044
+37686,Eastern,Gatsibo,yes,no,no,no,no,"",No,"",sollanum betaseum,2018-11-01,5,2,no,no,no,no,yes,no,no,no,no,yes,yes,yes,0.0361159674495043
+7781,Eastern,Bugesera,yes,no,no,no,no,"",No,"",Glevetia robusta,2018-04-01,30,25,no,yes,no,no,yes,no,no,yes,no,yes,no,yes,0.107126805658516
+37516,Eastern,Kayonza,yes,no,no,no,no,"",No,"",Ipapayi,2018-11-01,7,3,no,yes,no,no,no,no,no,no,no,yes,no,no,0.131801058833391
+23541,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,Cassava,Grevillea robusta,2018-11-01,20,16,no,no,yes,no,no,no,no,yes,no,yes,no,yes,0.0208247057662198
+21711,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,"beans, cassava, maize",Carica Papaya,2018-12-01,2,1,no,no,no,yes,no,no,no,no,no,yes,no,no,0.0464727400435604
+10813,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"Ibishyimbo, Ibigori",Calliandra calothyrsus,2018-10-01,2,1,no,no,yes,no,yes,no,no,yes,no,no,no,no,0.16225816510319
+25073,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,"Maize , cassava",Spathodea campanulata,2018-11-01,2,2,no,no,no,no,yes,no,no,no,no,no,yes,yes,0.445684524476799
+4338,Eastern,Bugesera,yes,no,no,no,no,"",Yes,tobacco banana,Carica papaya,2018-10-01,2,1,no,no,no,yes,no,no,no,yes,yes,yes,yes,yes,0.00646175921551746
+37123,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,beqns,Grevillea robusta,2018-11-01,15,10,no,no,yes,yes,no,no,no,yes,no,yes,no,no,0.121524309232968
+14049,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,coffee,percia american,2018-04-01,3,2,no,no,no,no,yes,no,no,no,no,yes,yes,yes,0.00527564949761901
+1719,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"imyumbati,urutoki,ibigori,dodo",ikinyomoro,2018-11-01,8,6,no,no,no,yes,no,no,no,no,no,no,no,yes,0.00700876970625457
+1420,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"Tree banana,maize, beans",Grevillea robusta,2018-11-01,10,5,no,no,yes,no,no,no,no,no,no,yes,no,no,0.018541566450908
+26564,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,Coffee,Grevellia robusta,2018-03-01,10,6,no,no,yes,no,no,no,no,yes,no,no,no,no,0.0367857283171392
+22641,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,banana and cons,Grevilea robusta,2018-11-01,15,11,no,no,yes,no,yes,no,no,yes,no,no,no,no,0.118634733958041
+27601,Eastern,Kayonza,yes,no,no,no,no,"",Yes,coffee,carica papaya,2018-11-01,5,3,no,yes,no,no,no,no,no,no,no,yes,yes,yes,0.063627019646902
+34398,Eastern,Bugesera,yes,no,no,no,no,"",Yes,beans,grevillea robusta,2018-08-01,10,8,no,yes,no,yes,no,no,no,no,no,yes,no,no,0.0577080607532843
+9318,Eastern,Kayonza,yes,no,no,no,no,"",No,"",Eucalyptus,2018-10-01,300,106,yes,no,no,no,no,no,no,no,no,no,no,no,0.0386514248275036
+1947,Eastern,Bugesera,yes,no,no,no,no,"",Yes,amasaka,glevirrea robusta,2018-10-01,35,30,no,yes,no,yes,yes,no,no,yes,no,yes,no,yes,0.331355000341387
+13318,Eastern,Kayonza,yes,no,no,no,no,"",Yes,banana,Kasiya,2018-11-01,20,15,no,no,yes,no,no,no,no,no,no,yes,no,yes,0.100197893356415
+12933,Eastern,Bugesera,yes,no,no,no,no,"",Yes,intsina,markamia,2018-11-01,15,6,no,no,no,no,yes,no,no,no,no,yes,no,no,0.0299972674327937
+2450,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,Maize,GrevilleaRobusta,2018-11-01,20,5,no,no,yes,no,no,no,no,yes,no,yes,no,no,0.0886903603840629
+10435,Eastern,Bugesera,yes,no,no,no,no,"",Yes,urutoki,gasiya,2018-09-01,10,2,no,no,yes,no,no,no,no,yes,no,yes,no,no,0.0865966992534453
+8236,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"ibishyimbo,imyumbati",Mangifera indica,2018-11-01,3,2,no,no,no,no,yes,no,no,no,no,yes,no,no,0.114424046548466
+24154,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,beans;cassava,grevellia Robusta,2018-11-01,13,10,no,no,yes,no,yes,no,no,yes,no,yes,no,no,0.0496997363440281
+26248,Eastern,Kayonza,yes,no,no,no,no,"",No,"",Eucalyptus spp,2018-11-01,250,150,yes,no,no,no,no,no,no,no,no,no,no,no,0.0563123535452539
+14787,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,"bananas, sunflowers, avocadoes",solanum betaseum,2018-11-01,10,8,no,no,no,yes,yes,no,no,no,no,yes,no,no,0.0429304404044316
+35128,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"banana , beans and maize",mangifer indica,2018-12-01,10,2,no,no,no,yes,no,no,no,no,no,yes,no,yes,0.0142593532128624
+15446,"",Nyagatare,"","","","","","","","",Grenville Robusta,2018-11-01,40,40,no,no,yes,no,no,no,no,yes,no,yes,yes,no,0.048992938579463
+26938,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,Banana,Grevillea Robusta,2018-11-01,30,25,no,no,yes,no,no,no,no,yes,no,yes,no,yes,0.666167674067662
+4874,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"beans, maize",carca papaya,2018-10-01,5,2,no,no,no,yes,no,no,no,no,no,yes,no,no,0.0169609440185596
+32720,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,Banana;,Grevillea Robusta,2018-11-01,25,13,no,yes,yes,no,no,no,no,yes,no,yes,no,yes,0.612868118870652
+26840,Eastern,Kayonza,yes,no,no,no,no,"",No,"",powpaw,2018-10-01,10,5,no,yes,no,no,no,no,no,no,no,yes,no,yes,0.111557700836463
+2726,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,"yams , banana plantation",Grevillea robusta,2018-11-01,6,4,no,yes,no,yes,no,no,no,yes,no,yes,yes,yes,0.0348589131275951
+28037,Eastern,Kayonza,yes,no,no,no,no,"",Yes,Urutoki,Grevellia robusta,2018-10-01,5,1,no,yes,no,no,no,no,no,no,no,yes,no,yes,0.0619054389308708
+6539,Eastern,Kayonza,yes,no,no,no,no,"",Yes,sorghum,eucalyptus ssp,2018-11-01,300,200,no,yes,no,no,yes,no,no,no,no,yes,no,no,0.353738444725482
+34780,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"Soja, tobacco, Crocase, bananas and pumpkin",Persea Americana,2018-10-01,4,1,no,no,yes,no,no,no,no,no,no,yes,no,yes,0.0247011549861717
+27443,Eastern,Kayonza,yes,no,no,no,no,"",Yes,Irish patatos,Grevilea robusta,2018-10-01,16,11,no,no,yes,no,yes,no,no,yes,no,yes,no,no,0.233585866906299
+13766,"",Nyagatare,"","","","","","","","",ibinyomoro,2018-10-01,300,250,no,yes,yes,yes,no,no,no,yes,no,yes,no,yes,0.322234653353924
+22702,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,Beans,Grevillea Robusta,2018-11-01,55,50,no,yes,yes,no,yes,no,no,no,no,yes,no,yes,1.28823980458978
+8398,Eastern,Nyagatare,yes,no,no,no,no,"",No,"",KaLiyandera,2018-10-01,50,45,no,yes,yes,no,no,no,no,yes,no,yes,no,no,1.71530763117499
+3844,Eastern,Kayonza,yes,no,no,no,no,"",Yes,"beans,Maize",Eucalyptus Microcorus,2018-10-01,2,1,no,no,no,no,yes,no,no,no,no,no,yes,yes,0.0842944547336444
+38139,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,maize,Grevilea robusta,2018-11-01,19,13,no,no,yes,yes,yes,no,no,yes,no,yes,yes,no,0.0869944796543738
+28563,Eastern,Kayonza,yes,no,no,no,no,"",No,"",Persea americana,2018-09-01,5,2,no,no,no,yes,no,no,no,no,no,yes,yes,yes,0.0178921691469233
+32301,Eastern,Kayonza,yes,no,no,no,no,"",Yes,sorghum,Grevillea robusta,2018-10-01,200,82,no,yes,yes,no,no,no,no,yes,no,yes,no,no,0.287065757018563
+8253,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,"mango,beans ,banana",grevillea Robusta,2018-11-01,12,8,no,yes,no,no,no,no,no,no,no,yes,no,no,0.0453913014252001
+25912,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,"Beans, cassava",Grevillea robusta,2018-11-01,40,35,no,yes,yes,no,no,no,no,yes,no,yes,no,no,0.385368441063159
+5694,Eastern,Kayonza,yes,no,no,no,no,"",Yes,banana,Calca papaya,2018-10-01,5,1,no,no,no,no,yes,no,no,no,no,yes,no,no,0.0433892811819693
+26979,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"beans, Maize",carica papaya,2018-12-01,5,1,no,no,no,yes,no,no,no,yes,no,no,yes,no,0.0641608921926888
+24164,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,"Soya, Tree Bananas, maize, Pumpkins",Grevellia Robusta,2018-11-01,30,20,no,yes,no,no,no,no,no,yes,no,yes,no,no,0.396022815213734
+12356,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,"banana trees, sorghum",Grevilea robusta,2018-09-01,100,85,no,yes,no,no,no,no,no,no,no,yes,no,no,1.00340439388672
+29993,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,Bean&maize,treetomato,2018-10-01,4,4,no,yes,no,no,no,no,no,no,no,yes,no,no,0.842105352994077
+16306,Eastern,Kayonza,yes,no,no,no,no,"",Yes,cassava and mice,grevellia robusta,2018-03-01,30,26,no,yes,yes,no,no,no,no,yes,no,no,no,no,0.256217662986445
+20678,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,banana,spathodea companolata,2018-11-01,4,3,no,no,yes,no,no,no,no,no,no,no,yes,yes,0.0440882004851181
+23946,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,sologom,Grevillea Robusta,2018-10-01,40,40,no,no,yes,no,yes,no,no,yes,no,yes,no,no,0.229521623541943
+1851,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,"Beans, Soya Beans",Grevillea Robusta,2018-11-01,20,10,no,yes,yes,no,yes,no,no,no,no,no,no,yes,0.165207653662075
+11436,Eastern,Bugesera,yes,no,no,no,no,"",No,"",Avocado,2018-09-01,1,1,no,no,no,yes,no,no,no,yes,no,yes,no,no,0.0102656440791062
+15779,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,"banana trees, cassava plants",Grevilea robusta!,2018-12-01,15,10,no,yes,no,no,no,no,no,no,no,yes,no,no,0.110092576758291
+17124,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,"Maize, sorghum, bananas;Beans,soja",Tree tomato,2018-09-01,4,4,no,no,no,no,yes,no,no,no,no,yes,no,no,1.11175895449873
+748,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,"",Mangifera indica,2018-11-01,4,1,no,no,no,yes,no,no,no,no,no,yes,no,no,0.0219973655935318
+12033,Eastern,Kayonza,yes,no,no,no,no,"",Yes,"banana,",Senna spectabulis,2018-11-01,40,11,no,no,yes,no,no,no,no,yes,no,yes,no,no,0.0474972688735756
+28543,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,banana and cons,Grevilea robusta,2018-11-01,9,9,no,no,yes,no,yes,no,no,yes,no,yes,no,no,0.0345691539348702
+34554,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,Bean,GrevilleaRobusta,2018-10-01,10,10,no,no,yes,no,no,no,no,no,no,no,yes,no,0.0158916477028282
+27959,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"Maize, beans",Grevillea robusta,2018-08-01,150,142,yes,no,no,no,yes,no,no,no,no,yes,no,yes,0.0760221876318641
+8093,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,"banana trees,maizes",Grevilea robusta,2018-09-01,150,110,no,yes,yes,no,yes,no,no,yes,no,yes,no,no,0.884900358396812
+26129,Eastern,Nyagatare,yes,no,no,no,no,"",No,"",Grevillea robusta,2018-10-01,30,19,no,no,no,yes,no,no,no,no,no,yes,no,no,0.234994362877083
+802,Eastern,Nyagatare,yes,no,no,no,no,"",No,"",Persea Americana,2018-10-01,3,1,no,no,no,no,yes,no,no,no,no,yes,no,yes,0.0458538382824801
+32975,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,sorghum,Grevillea Robusta,2018-11-01,10,9,yes,no,no,no,no,no,no,yes,no,yes,no,no,0.0165194670268339
+6114,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,"Maizes, Bananas,  Beans",Grevillea Robusta,2018-10-01,15,11,no,yes,yes,no,no,no,no,no,no,no,no,yes,0.632741259270492
+3406,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,sorghum,grevillea robusta,2017-11-01,5,4,no,yes,no,no,no,no,no,yes,no,no,no,yes,0.0486643754731129
+36032,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,sorghum and casssava,grrvillea robusta,2018-11-01,10,3,no,no,yes,no,no,no,no,no,yes,yes,no,yes,0.158089658739447
+31443,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,Banana,Grevillea Robusta,2018-12-01,10,6,no,no,no,no,yes,no,no,yes,no,yes,no,yes,0.0325274038987418
+2071,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,"",Grevellea Robusta,2018-11-01,10,7,no,yes,yes,no,yes,no,no,yes,no,yes,no,yes,0.046985845092859
+9546,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,bananas,Cyphomandra betacea,2018-11-01,5,4,no,no,no,no,yes,no,no,no,no,yes,no,no,0.294669606887753
+15630,Eastern,Kayonza,yes,no,no,no,no,"",Yes,beans,grevellea,2018-09-01,5,4,no,no,no,yes,yes,no,no,no,no,no,no,yes,0.0500972926148819
+3773,Eastern,Kayonza,yes,no,no,no,no,"",Yes,"amasaka, intsina, imyumbati",grevillea,2018-11-01,50,45,no,yes,no,no,yes,no,no,yes,no,no,no,no,0.0644680157594427
+24339,Eastern,Bugesera,yes,no,no,no,no,"",No,"",Eucalyptus,2018-11-01,30,6,yes,no,no,no,no,no,yes,yes,no,no,no,no,0.00576836533745895
+19359,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,"banana crops, Maize",Grevillea robusta,2018-08-01,100,99,no,yes,yes,no,yes,no,no,no,no,no,no,no,1.08125832465037
+20803,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"Maize,Sorgham",Orange,2018-11-01,5,2,no,no,no,yes,no,no,no,no,no,yes,no,no,0.0405008727597748
+711,Eastern,Kayonza,yes,no,no,no,no,"",Yes,maize,grevillea robusta,2018-10-01,20,1,no,no,yes,no,no,no,no,no,no,yes,no,no,0.0633767355456983
+37069,Eastern,Kayonza,yes,no,no,no,no,"",Yes,beans and banana,Grevillea robusta,2018-10-01,10,5,no,yes,no,yes,yes,no,no,yes,no,no,no,no,0.0498418032424406
+36314,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"groundnuts, Maize,yams",Tree tomato,2018-10-01,40,23,no,no,no,no,yes,no,no,no,no,yes,yes,yes,0.178601905252857
+36709,Eastern,Bugesera,yes,no,no,no,no,"",Yes,insina,Grevillea robusta,2018-11-01,15,8,no,no,yes,no,no,no,no,no,no,yes,no,no,0.0356043515856085
+20482,Eastern,Kayonza,yes,no,no,no,no,"",Yes,"Coffee, beans",Grevillea robusta,2018-11-01,30,8,no,yes,yes,no,no,no,no,yes,no,no,no,no,0.0520608455361004
+7061,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,beans,Grevillea Robusta,2018-10-01,15,6,no,no,yes,no,no,no,no,yes,no,no,no,no,0.0592524062163825
+18846,Eastern,Kayonza,yes,no,no,no,no,"",Yes,cassava,Grevaria,2018-11-01,100,96,no,yes,yes,no,no,no,no,yes,no,yes,no,no,0.206736827268161
+8415,Eastern,Kayonza,yes,no,no,no,no,"",Yes,amasaka,glevirrea robusta,2018-09-01,4,3,no,yes,no,yes,yes,no,no,yes,no,yes,no,yes,0.0437915418178677
+6090,Eastern,Kayonza,yes,no,no,no,no,"",Yes,"Maize,",Senna Spectabilis,2018-10-01,10,5,no,no,yes,no,yes,no,no,no,no,no,yes,yes,0.407622130507039
+24022,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"Beans, Maize",Sepathodea campanulata,2018-10-01,32,22,no,yes,no,no,no,no,no,yes,no,yes,no,yes,0.315185621633689
+14486,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,Banana plantation and yarms,Solanum betaseum,2018-11-01,15,10,no,yes,no,no,no,no,no,no,no,yes,no,yes,0.0849156479414012
+8736,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,soybeans,Mangifera Indica,2018-10-01,2,1,no,no,no,no,yes,no,no,no,no,yes,yes,yes,0.0437751881941967
+23509,Eastern,Kayonza,yes,no,no,no,no,"",No,"",Grevelia robusta,2018-10-01,5,4,no,no,yes,no,no,no,no,yes,no,yes,no,no,0.0426392701931415
+18620,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"insina, imyumbati",tree tomato,2018-11-01,12,9,no,no,no,no,yes,no,no,no,no,yes,no,no,0.248261016657904
+19948,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,banana,Grevillea robusta / Grevillia,2018-11-01,20,15,no,yes,no,no,no,no,no,yes,no,yes,no,yes,0.0379404458264318
+11031,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"imyumbati, urutoki",ibinyomoro,2018-10-01,8,2,no,no,no,yes,no,no,no,no,no,no,yes,yes,0.0113467484120775
+8598,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,banana and maize,soranum betaseum,2018-11-01,25,13,no,no,no,no,yes,no,no,no,no,no,no,yes,0.194281020354133
+27785,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"beans,banana and maize",Carica papaya,2018-10-01,20,12,no,yes,no,no,no,no,no,no,no,yes,no,yes,0.118949754092709
+13698,Eastern,Kayonza,no,no,no,yes,no,"",No,"",grevillea robusta,2018-10-01,10,3,no,yes,no,no,no,no,no,yes,no,yes,no,no,0.0854104984916084
+37733,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,banana,Grevellia Robusta,2018-11-01,20,16,no,no,yes,no,yes,no,no,yes,no,yes,no,no,0.036436753905435
+18135,Eastern,Kayonza,yes,no,no,no,no,"",No,"",Grevillea robusta,2018-10-01,200,150,no,no,yes,no,no,no,no,no,no,yes,no,no,1.21145702857803
+24821,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,"Sunbuds, Banana Plantation and Cassava.",Glevillea Robusta,2018-11-01,10,8,no,no,yes,no,no,no,no,yes,no,no,no,no,0.198863680448081
+13720,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"insina , ibishyimbo",Grevillea robusta,2018-11-01,30,18,no,no,yes,no,no,no,no,no,no,no,no,no,0.102492208947004
+14956,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,cassava and maize,grevellea rubusta,2018-12-01,80,67,no,yes,yes,no,no,no,no,no,no,no,no,no,4.12027579762365
+986,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,"banana plantation, yams",Grevillea robusta,2018-11-01,20,15,no,yes,no,no,no,no,no,yes,no,yes,yes,yes,0.0569187642332554
+5663,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,"beans,maise, cassava",grevillea Robusta,2018-11-01,67,65,no,yes,yes,no,yes,no,no,yes,yes,yes,no,no,0.508771592260699
+17696,Eastern,Kayonza,yes,no,no,no,no,"",No,"",papaye,2017-11-01,5,5,no,yes,yes,yes,no,no,no,no,no,yes,no,no,0.0469954183349147
+29313,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,banana tree,Grevillea robusta,2018-09-01,300,300,no,no,yes,no,yes,no,no,no,no,no,no,no,0.986330222707272
+20159,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,"potato,banana tree ,maize",Grevillea robusta,2018-10-01,100,80,no,no,yes,no,yes,no,no,yes,no,no,no,no,0.535489816960959
+38085,Eastern,Bugesera,yes,no,no,no,no,"",Yes,insina,ibinyomoro,2018-10-01,8,1,no,no,no,yes,no,no,no,yes,no,yes,yes,yes,0.00492328440034074
+34755,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"beans, cassava and manioce",Grevilea rubusta,2018-10-01,23,12,no,yes,no,no,yes,no,no,yes,no,yes,no,yes,0.0949641356497949
+36654,Eastern,Bugesera,yes,no,no,yes,no,"",No,"",eucalyptus,2018-11-01,2000,1300,yes,no,no,no,no,no,no,yes,no,yes,yes,yes,0.418801182230217
+31525,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,banana,Spathodea  Companulata,2018-11-01,3,3,no,no,yes,no,no,no,no,no,no,yes,no,no,0.0579518278927182
+4388,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,"maize,",grevillea robusta,2018-11-01,10,7,no,no,yes,no,no,no,no,no,no,yes,no,no,0.0226930205515874
+6940,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,"banana trees,maizes,beans",Gliricidia sepium,2018-09-01,1,1,no,no,no,yes,no,no,no,no,no,yes,no,no,1.61246456910848
+14678,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,Maize,Grevillea Robusta,2018-11-01,10,3,yes,no,no,no,no,no,no,no,no,yes,no,yes,0.013177346200133
+13446,Eastern,Kayonza,yes,no,no,no,no,"",Yes,beans,senna spectabilis,2018-10-01,25,14,no,yes,yes,yes,yes,no,no,no,no,no,no,yes,0.019878562999422
+22776,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,urutocye,gliverrea robusta,2018-11-01,15,12,no,yes,no,no,yes,no,no,no,no,yes,no,no,0.114142365142743
+33450,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,Banana,Calliandra Calothyrsus,2018-12-01,25,14,no,yes,yes,no,no,no,no,no,no,no,no,yes,0.118919916344261
+9366,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,"papkins, banana,mesopsis, glevenie robusta
+",glevenie robusta,2018-01-01,12,9,no,yes,no,no,no,no,no,yes,no,no,no,no,0.226584275171347
+9063,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,"Soya, Casava",Grevellia Robusta,2018-03-01,60,60,no,yes,no,no,yes,no,no,yes,no,yes,no,no,0.206342001789083
+17419,Eastern,Kayonza,yes,no,no,no,no,"",Yes,beans and maize,Grevillea robusta,2018-10-01,85,45,no,no,yes,no,no,no,no,yes,no,no,no,no,0.126675726293835
+32287,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,banana trees,Grevilea robusta,2018-10-01,50,36,no,no,yes,no,yes,no,no,yes,no,yes,no,no,0.121966222648162
+17681,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,banana trees,Grevilea robusta,2018-10-01,250,190,no,yes,yes,no,yes,no,no,yes,no,yes,no,no,1.01885559674773
+3297,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,"onions, yam",grevillea tobusta,2018-11-01,15,9,no,no,yes,no,no,no,no,no,no,yes,no,no,0.0638378854558749
+38246,Eastern,Nyagatare,yes,no,no,no,no,"",No,"",Grevelia Robusta,2018-10-01,30,18,no,no,no,yes,no,no,no,yes,no,yes,no,no,0.0455542719294809
+9468,Eastern,Nyagatare,yes,no,no,no,no,"",Yes,Banana trees,Grevillea Robusta,2018-11-01,50,47,no,no,yes,no,yes,no,no,no,no,yes,no,no,0.812765641886829
+25875,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,maize,grevillea robusta,2018-11-01,10,10,no,no,yes,yes,no,no,no,no,no,yes,no,no,0.0960892792054582
+38314,Eastern,Bugesera,yes,no,no,no,no,"",No,"",eucalyptus,2018-12-01,70,50,yes,no,no,no,no,no,no,no,no,yes,no,no,0.207869458746965
+23890,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,"beans,maize",grevillea robusta,2018-10-01,20,20,no,no,yes,no,yes,no,no,yes,no,no,no,no,0.0628459196277296
+2463,Eastern,Bugesera,yes,no,no,no,no,"",No,"",Eucalyptus,2018-09-01,7500,600,yes,no,no,no,no,no,no,yes,no,no,yes,no,0.64352512459165
+16202,Eastern,Gatsibo,yes,no,no,no,no,"",No,"",Glevirrea robusta,2018-11-01,30,27,no,no,yes,no,yes,no,no,no,no,yes,no,yes,0.103810700765627
+17408,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,"banana, sweet potatoes and cons",Grevilea robusta,2018-11-01,10,3,no,no,yes,no,no,no,no,yes,no,yes,no,no,0.132251300878085
+7794,Eastern,Kayonza,yes,no,no,no,no,"",Yes,"beans,banana tree",grevillea robusta,2018-09-01,35,30,no,no,yes,no,yes,no,no,no,no,no,no,no,0.0788538842495311
+28989,Eastern,Kayonza,yes,no,no,no,no,"",Yes,"banana trees,amateke,inzuzi",Grevilea robusta,2018-10-01,20,14,no,yes,no,no,no,no,no,no,no,yes,no,no,0.0304329079303295
+12322,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"Beans, Maize,Bananas",Mangifera indica,2018-10-01,8,5,no,no,no,yes,no,no,no,no,no,yes,no,no,0.13500115367894
+2868,Eastern,Kayonza,yes,no,no,no,no,"",Yes,maize and beans,Markamea lutea,2018-10-01,5,5,no,no,no,yes,no,no,no,no,no,yes,no,no,0.141879293314395
+12493,Eastern,Kayonza,yes,no,no,no,no,"",Yes,"intsina, amasaka",tree tomato,2018-11-01,80,30,no,no,no,no,yes,no,no,no,no,yes,no,yes,0.432349879422915
+7477,Eastern,Bugesera,yes,no,no,no,no,"",Yes,"",Grevillea robusta,2018-10-01,3,1,no,yes,no,yes,no,no,no,yes,no,yes,no,no,0.00471887234411956
+31022,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,"sweet potatoes, coffee, ananas",grevillea robusta,2018-11-01,20,16,no,no,yes,no,no,no,no,no,no,yes,no,no,0.0745384819959508
+11143,Eastern,Kayonza,yes,no,no,no,no,"",No,"",Eucalyptus camaldulenisis,2018-10-01,91,82,yes,no,no,no,no,no,no,yes,no,yes,no,no,0.0976499298071225
+22670,Eastern,Kayonza,yes,no,no,no,no,"",Yes,"banana, beans and maize",grevellia robusta,2018-09-01,35,16,no,yes,yes,no,no,no,no,yes,no,yes,no,yes,0.427289884609523
+21842,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,"coffee, guajava,banana",solanum bataceum,2018-04-01,50,15,no,no,no,no,yes,no,no,no,no,yes,no,yes,0.0568937611643014
+12339,Eastern,Bugesera,yes,no,no,no,no,"",Yes,insina n amateke,Grevellia Robusta,2018-10-01,100,92,no,no,yes,no,yes,no,no,no,no,yes,no,yes,0.183531388977557
+20777,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,"banana trees, beans",Grevilea robusta,2018-10-01,8,6,no,yes,yes,no,yes,no,no,yes,no,yes,no,no,0.0696057974906299
+33437,Eastern,Gatsibo,yes,no,no,no,no,"",Yes,Banana plantation.,Solanum Betaseum,2018-11-01,20,15,no,yes,yes,no,no,no,no,no,no,yes,no,yes,0.0311634549446807
+16206,Eastern,Kayonza,yes,no,no,no,no,"",Yes,"Beans, Maize",Carica papaya,2018-10-01,7,7,no,no,no,yes,no,no,no,no,no,yes,no,yes,0.0362303424946672
+13658,Eastern,Bugesera,yes,no,no,no,no,"",Yes,beans,glevirrea robusta,2018-11-01,120,58,no,no,yes,no,yes,no,no,no,no,yes,no,yes,0.221046935468513
