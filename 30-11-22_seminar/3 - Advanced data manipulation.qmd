@@ -1,0 +1,220 @@
+---
+title: "Advanced data manipulation (Seminar 3)"
+author: "SPACIAL Unit"
+format: html
+editor: visual
+---
+
+### Today's (30/11/2022) program:
+
+-  Recap last seminar
+
+-  Publish html with quarto
+
+-  Continue on data manipulation (Seminar 3 - 30/11/2022)
+
+    7. Data transformations
+    8. Specific transformations
+    9. Apply data manupilation knowledge
+    10. Base R functions such as loops (optional)
+
+## 1. Libraries
+
+```{r}
+# Load libraries
+library(tidyverse)
+library(data.table)
+
+# If not installed yet:
+install.packages('tidyverse')
+install.packages('data.table')
+```
+
+## 2. Set working directory
+
+## 3. Import data
+
+```{r}
+# Import data
+ra <- read_csv('Rwanda_subset.csv')
+
+```
+
+## 4. Explore data
+
+```{r}
+# Explore data types in the data set
+summary(ra)
+View(ra)
+names(ra)
+# Which variables can be found in the data set
+```
+
+## 5. Answer the questions
+
+```{r}
+# How many unique plots in the data?
+length(unique(ra$plotID))
+```
+
+```{r}
+# Which counties are in the data?
+unique(ra$county)
+```
+
+```{r}
+# How many plots per county?
+ra %>% 
+  group_by(county) %>% 
+  summarise(number_plots=n())
+  
+```
+
+```{r}
+# Find NAs in the county_region column and change the value
+length(which(is.na(ra$county_region)==T))
+
+```
+
+```{r}
+# What data type is the "plant_date" column?
+class(ra$plant_date)
+
+# Which unique planting years are in the data?
+unique(year(ra$plant_date))
+# How many planted in each year per county
+ra %>% 
+  group_by(county, year(plant_date)) %>% 
+  summarise(number_planted=n())
+
+```
+
+## 6. Data exploration by visualization
+
+```{r}
+# Visualize the number of plots per county
+ra %>% 
+  group_by(county) %>% 
+  summarise(number_planted=n()) %>% 
+  ggplot()+
+  geom_col(aes(x=county, y=number_planted), fill='darkblue')+
+  labs(y='Number planted', x='County')
+  # Change the color and width of the the bars
+  # Look up some information on the type of plot you used (eg what does 'identity' mean?)
+
+```
+
+```{r}
+# Show the distribution in size of the plots in different counties
+ggplot(ra)+
+  geom_histogram(aes(x=Hectare))+
+  facet_wrap(~county)
+
+ggplot(ra)+
+  geom_boxplot(aes(x=county, y=Hectare))+
+  ylim(0,1)
+
+ggplot(ra)+
+  geom_violin(aes(x=county, y=Hectare), fill='grey',
+              col='dark green')+
+  ylim(0,1)
+
+# Does the y limit make sense?
+
+```
+
+```{r}
+# Plot the number trees planted vs the number survived
+ggplot(ra)+
+  geom_point(aes(x=number_planted, y=number_survived, col=Hectare))+
+  geom_smooth(aes(x=number_planted,y=number_survived),
+              method='loess')+
+  ylim(0,200)+
+  xlim(0,200)
+
+ggplot(ra)+
+  geom_point(aes(x=number_planted, y=number_survived, col=Hectare))+
+  geom_smooth(aes(x=number_planted,y=number_survived),
+              method='lm')+
+  ylim(0,200)+
+  xlim(0,200)
+
+  #Add an extra variable as aesthetic 
+
+```
+
+# Conintue on data manipulation (Seminar 3 - 30/11/2022)
+
+## 7. Data transformations
+
+```{r}
+# Create new column and add to the dataset
+
+
+
+# Show the survival ratio and plot
+
+
+
+# Show survival per county
+
+
+
+# Create a new variable with the number of trees per hectare and visualize against survive_ratio
+
+
+
+```
+## 8. Specific transformations
+
+```{r}
+# Create new column that equals 1 when "Hectare" is >0.5ha and "number_planted" is <10
+
+
+
+# See in how many instances this is the case
+
+
+
+# Explore the if_else function
+
+
+# Find NAs values in "county_region"
+
+
+# Use the if_else function to change the NA into "No region"
+
+
+
+# Remove the rows with "No region" in "country_region"
+
+
+
+
+# Try to combine as many as the commands above in one pipe
+
+
+
+```
+
+## 9. Apply data manipulation knowledge
+```{r}
+# Find the plots with the highest 10% number of trees per hectare in a garden. Then, exclude all columns but plotID, county, plant_date and trees_hectares. Then visualise the result 
+
+
+
+```
+
+## 10. Introduction to functions and loops (optional)
+
+```{r}
+# Create new column that equals 1 when "Hectare" is >0.5ha and "number_planted" is <10
+
+
+
+
+# See in how many instances this is the case
+
+
+
+```
